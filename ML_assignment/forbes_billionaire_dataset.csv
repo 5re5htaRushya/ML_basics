@@ -1,0 +1,2044 @@
+rank,name,age,source,country_citizenship,net_worth
+1,Bill Gates,62,Microsoft,United States,86000000000.0
+2,Warren Buffett,87,Berkshire Hathaway,United States,75600000000.0
+3,Jeff Bezos,53,Amazon.com,United States,72800000000.0
+4,Amancio Ortega,81,Zara,Spain,71300000000.0
+5,Mark Zuckerberg,33,Facebook,United States,56000000000.0
+6,Carlos Slim Helu,77,telecom,Mexico,54500000000.0
+7,Larry Ellison,73,software,United States,52200000000.0
+8,Charles Koch,82,diversified,United States,48300000000.0
+8,David Koch,77,diversified,United States,48300000000.0
+10,Michael Bloomberg,75,Bloomberg LP,United States,47500000000.0
+11,Bernard Arnault,68,LVMH,France,41500000000.0
+12,Larry Page,44,Google,United States,40700000000.0
+13,Sergey Brin,44,Google,United States,39800000000.0
+14,Liliane Bettencourt,95,L'Oreal,France,39500000000.0
+15,S. Robson Walton,73,Wal-Mart,United States,34100000000.0
+16,Jim Walton,69,Wal-Mart,United States,34000000000.0
+17,Alice Walton,68,Wal-Mart,United States,33800000000.0
+18,Wang Jianlin,63,real estate,China,31300000000.0
+19,Li Ka-shing,89,diversified,Hong Kong,31200000000.0
+20,Sheldon Adelson,84,casinos,United States,30400000000.0
+21,Steve Ballmer,61,Microsoft,United States,30000000000.0
+22,Jorge Paulo Lemann,78,beer,Brazil,29200000000.0
+23,Jack Ma,53,e-commerce,China,28300000000.0
+24,Beate Heister & Karl Albrecht Jr.,-100000,supermarkets,Germany,27200000000.0
+24,David Thomson,60,media,Canada,27200000000.0
+26,Jacqueline Mars,78,candy,United States,27000000000.0
+26,John Mars,82,candy,United States,27000000000.0
+28,Phil Knight,79,Nike,United States,26200000000.0
+29,Maria Franca Fissolo,82,"Nutella, chocolates",Italy,25200000000.0
+29,George Soros,87,hedge funds,United States,25200000000.0
+31,Ma Huateng,46,internet media,China,24900000000.0
+32,Lee Shau Kee,89,real estate,Hong Kong,24400000000.0
+33,Mukesh Ambani,60,"petrochemicals, oil & gas",India,23200000000.0
+34,Masayoshi Son,60,"internet, telecom",Japan,21200000000.0
+35,Kjeld Kirk Kristiansen,69,Lego,Denmark,21100000000.0
+36,Georg Schaeffler,53,automotive,Germany,20700000000.0
+37,Joseph Safra,78,banking,Brazil,20500000000.0
+38,Michael Dell,52,Dell computers,United States,20400000000.0
+38,Susanne Klatten,55,"BMW, pharmaceuticals",Germany,20400000000.0
+40,Len Blavatnik,60,diversified,United States,20000000000.0
+40,Laurene Powell Jobs,54,"Apple, Disney",United States,20000000000.0
+42,Paul Allen,64,"Microsoft, investments",United States,19900000000.0
+43,Stefan Persson,70,H&M,Sweden,19600000000.0
+44,"Theo Albrecht, Jr.",66,"Aldi, Trader Joe's",Germany,18800000000.0
+45,Prince Alwaleed Bin Talal Alsaud,62,investments,Saudi Arabia,18700000000.0
+46,Leonid Mikhelson,62,"gas, chemicals",Russia,18400000000.0
+47,Charles Ergen,64,satellite TV,United States,18300000000.0
+47,Stefan Quandt,51,BMW,Germany,18300000000.0
+49,James Simons,79,hedge funds,United States,18000000000.0
+50,Leonardo Del Vecchio,82,eyeglasses,Italy,17900000000.0
+51,Alexey Mordashov,52,"steel, investments",Russia,17500000000.0
+52,William Ding,46,online games,China,17300000000.0
+53,Dieter Schwarz,78,retail,Germany,17000000000.0
+54,Ray Dalio,68,hedge funds,United States,16800000000.0
+55,Carl Icahn,81,investments,United States,16600000000.0
+56,Lakshmi Mittal,67,steel,India,16400000000.0
+57,Serge Dassault,92,diversified,France,16100000000.0
+57,Vladimir Lisin,61,"steel, transport",Russia,16100000000.0
+59,Gennady Timchenko,65,"oil, gas",Russia,16000000000.0
+60,Wang Wei,47,package delivery,China,15900000000.0
+60,Tadashi Yanai,68,fashion retail,Japan,15900000000.0
+62,Charoen Sirivadhanabhakdi,73,"drinks, real estate",Thailand,15800000000.0
+63,Francois Pinault,81,luxury goods,France,15700000000.0
+64,Hinduja family,-100000,diversified,United Kingdom,15400000000.0
+65,David & Simon Reuben,74,"investments, real estate",United Kingdom,15300000000.0
+66,Donald Bren,85,real estate,United States,15200000000.0
+66,Alisher Usmanov,64,"steel, telecom, investments",Russia,15200000000.0
+68,Lee Kun-Hee,75,Samsung,South Korea,15100000000.0
+69,Thomas & Raymond Kwok,-100000,real estate,Hong Kong,15000000000.0
+69,Joseph Lau,66,real estate,Hong Kong,15000000000.0
+69,Gina Rinehart,63,mining,Australia,15000000000.0
+72,Azim Premji,72,software services,India,14900000000.0
+73,Marcel Herrmann Telles,67,beer,Brazil,14800000000.0
+74,Vagit Alekperov,67,oil,Russia,14500000000.0
+75,Mikhail Fridman,53,"oil, banking, telecom",Russia,14400000000.0
+75,Abigail Johnson,55,money management,United States,14400000000.0
+77,Pallonji Mistry,88,construction,Ireland,14300000000.0
+77,Vladimir Potanin,56,metals,Russia,14300000000.0
+79,Wang Wenyin,49,"mining, copper products",China,14000000000.0
+80,Elon Musk,46,Tesla Motors,United States,13900000000.0
+80,Stefano Pessina,76,drugstores,Italy,13900000000.0
+82,German Larrea Mota Velasco,64,mining,Mexico,13800000000.0
+82,Thomas Peterffy,73,discount brokerage,United States,13800000000.0
+84,Iris Fontbona,74,mining,Chile,13700000000.0
+84,Dilip Shanghvi,62,pharmaceuticals,India,13700000000.0
+86,Dietrich Mateschitz,73,Red Bull,Austria,13400000000.0
+87,Harold Hamm,71,oil & gas,United States,13300000000.0
+87,Robin Li,49,internet search,China,13300000000.0
+89,Andrey Melnichenko,45,"coal, fertilizers",Russia,13200000000.0
+90,Rupert Murdoch,86,"newspapers, TV network",United States,13100000000.0
+90,Heinz Hermann Thiele,76,brakes,Germany,13100000000.0
+92,Steve Cohen,61,hedge funds,United States,13000000000.0
+92,Patrick Drahi,54,telecom,France,13000000000.0
+94,Henry Sy,93,diversified,Philippines,12700000000.0
+95,Charlene de Carvalho-Heineken,63,Heineken,Netherlands,12600000000.0
+96,Philip Anschutz,77,investments,United States,12500000000.0
+96,Ronald Perelman,74,leveraged buyouts,United States,12500000000.0
+96,Hans Rausing,91,packaging,Sweden,12500000000.0
+96,Carlos Alberto Sicupira,69,beer,Brazil,12500000000.0
+100,Klaus-Michael Kuehne,80,shipping,Germany,12400000000.0
+100,Viktor Vekselberg,60,"metals, energy",Russia,12400000000.0
+102,He Xiangjian,75,home appliances,China,12300000000.0
+102,Shiv Nadar,72,software services,India,12300000000.0
+102,Takemitsu Takizaki,72,sensors,Japan,12300000000.0
+105,Aliko Dangote,60,"cement, sugar, flour",Nigeria,12200000000.0
+105,Petr Kellner,53,"banking, insurance",Czech Republic,12200000000.0
+105,Jim Kennedy,69,media,United States,12200000000.0
+105,Blair Parry-Okeden,67,media,United States,12200000000.0
+109,Lui Che Woo,88,casinos,Hong Kong,12100000000.0
+109,Donald Newhouse,88,media,United States,12100000000.0
+109,"Samuel Irving Newhouse, Jr.",90,media,United States,12100000000.0
+112,Stephen Schwarzman,70,investments,United States,11800000000.0
+112,Alain Wertheimer,69,Chanel,France,11800000000.0
+112,Gerard Wertheimer,66,Chanel,France,11800000000.0
+115,Robert Kuok,94,"palm oil, shipping, property",Malaysia,11400000000.0
+116,Emmanuel Besnier,47,cheese,France,11300000000.0
+116,Lukas Walton,31,Wal-Mart,United States,11300000000.0
+118,Hasso Plattner,73,software,Germany,11200000000.0
+119,Eric Schmidt,62,Google,United States,11100000000.0
+120,Luis Carlos Sarmiento,84,banking,Colombia,11000000000.0
+120,David Tepper,60,hedge funds,United States,11000000000.0
+120,Udo & Harald Tschira,-100000,software,Germany,11000000000.0
+123,Alberto Bailleres Gonzalez,86,mining,Mexico,10800000000.0
+124,Dustin Moskovitz,33,Facebook,United States,10700000000.0
+125,Majid Al Futtaim,-100000,"real estate, retail",United Arab Emirates,10600000000.0
+126,Peter Woo,71,real estate,Hong Kong,10500000000.0
+127,Andrew Beal,64,"banks, real estate",United States,10400000000.0
+128,Hui Ka Yan,59,real estate,China,10200000000.0
+128,"John Menard, Jr.",77,home improvement stores,United States,10200000000.0
+130,Reinhold Wuerth,82,fasteners,Germany,10000000000.0
+131,John Fredriksen,72,shipping,Cyprus,9900000000.0
+132,Dhanin Chearavanont,78,diversified,Thailand,9700000000.0
+133,Kumar Birla,50,commodities,India,9500000000.0
+133,Graeme Hart,62,investments,New Zealand,9500000000.0
+133,Massimiliana Landini Aleotti,74,pharmaceuticals,Italy,9500000000.0
+133,Galen Weston,77,retail,Canada,9500000000.0
+137,James Goodnight,74,software,United States,9400000000.0
+138,German Khan,56,"oil, banking, telecom",Russia,9300000000.0
+139,Roman Abramovich,51,"steel, investments",Russia,9100000000.0
+140,R. Budi Hartono,76,"banking, tobacco",Indonesia,9000000000.0
+140,Dietmar Hopp,77,software,Germany,9000000000.0
+140,Jan Koum,41,WhatsApp,United States,9000000000.0
+140,James Ratcliffe,64,chemicals,United Kingdom,9000000000.0
+140,Yang Huiyan,36,real estate,China,9000000000.0
+145,Michael Hartono,78,"banking, tobacco",Indonesia,8900000000.0
+145,Leonard Lauder,80,Estee Lauder,United States,8900000000.0
+145,Eyal Ofer,67,"real estate, shipping",Israel,8900000000.0
+145,Mikhail Prokhorov,52,investments,Russia,8900000000.0
+149,"Thomas Frist, Jr.",79,health care,United States,8800000000.0
+150,Robert & Philip Ng,-100000,real estate,Singapore,8700000000.0
+151,Ernesto Bertarelli,52,"biotech, investments",Switzerland,8600000000.0
+151,Patrick Soon-Shiong,65,pharmaceuticals,United States,8600000000.0
+153,Harry Triguboff,84,real estate,Australia,8500000000.0
+154,Yao Zhenhua,47,conglomerate,China,8400000000.0
+154,Zhang Zhidong,45,internet media,China,8400000000.0
+156,Viktor Rashnikov,69,steel,Russia,8300000000.0
+156,Charles Schwab,80,discount brokerage,United States,8300000000.0
+158,Shahid Khan,67,auto parts,United States,8200000000.0
+159,Mohammed Al Amoudi,71,"oil, diversified",Saudi Arabia,8100000000.0
+159,Micky Arison,68,Carnival Cruises,United States,8100000000.0
+159,James Chambers,60,media,United States,8100000000.0
+159,Xavier Niel,50,"internet, telecom",France,8100000000.0
+159,Cyrus Poonawalla,76,vaccines,India,8100000000.0
+159,Katharine Rayner,72,media,United States,8100000000.0
+159,Margaretta Taylor,75,media,United States,8100000000.0
+166,Ken Griffin,49,hedge funds,United States,8000000000.0
+166,"Herbert Kohler, Jr.",78,plumbing fixtures,United States,8000000000.0
+166,Uday Kotak,58,banking,India,8000000000.0
+166,Pierre Omidyar,50,eBay,United States,8000000000.0
+170,George Kaiser,75,"oil & gas, banking",United States,7900000000.0
+170,John Paulson,61,hedge funds,United States,7900000000.0
+170,Eduardo Saverin,35,Facebook,Brazil,7900000000.0
+173,"Edward Johnson, III.",87,money management,United States,7800000000.0
+174,Eli Broad,84,investments,United States,7700000000.0
+174,Heinrich Deichmann,54,footwear,Germany,7700000000.0
+174,Liu Qiangdong,43,e-commerce,China,7700000000.0
+174,John Malone,76,cable television,United States,7700000000.0
+174,Michael Otto,74,"retail, real estate",Germany,7700000000.0
+179,Walter Droege,64,consulting,Germany,7600000000.0
+179,James Irving,89,diversified,Canada,7600000000.0
+179,Aloys Wobben,65,wind turbines,Germany,7600000000.0
+182,Gianluigi & Rafaela Aponte,-100000,shipping,Switzerland,7500000000.0
+182,Terry Gou,67,electronics,Taiwan,7500000000.0
+182,Stanley Kroenke,70,"sports, real estate",United States,7500000000.0
+182,Sunil Mittal,60,telecom,India,7500000000.0
+186,Carl Cook,55,medical devices,United States,7400000000.0
+186,Stephen Ross,77,real estate,United States,7400000000.0
+186,August von Finck,87,investments,Germany,7400000000.0
+186,Zhou Qunfei,47,smartphone screens,Hong Kong,7400000000.0
+190,David Geffen,74,"movies, record labels",United States,7300000000.0
+190,Walter Kwok,67,real estate,Hong Kong,7300000000.0
+190,Gordon Moore,88,Intel,United States,7300000000.0
+190,Dmitry Rybolovlev,50,fertilizer,Russia,7300000000.0
+194,Johann Graf,70,gambling,Austria,7200000000.0
+194,Richard Kinder,73,pipelines,United States,7200000000.0
+194,Alexei Kuzmichev,55,"oil, banking, telecom",Russia,7200000000.0
+194,Hank & Doug Meijer,-100000,supermarkets,United States,7200000000.0
+194,Zong Qinghou,72,beverages,China,7200000000.0
+199,Silvio Berlusconi,81,media,Italy,7000000000.0
+199,Nicky Oppenheimer,72,diamonds,South Africa,7000000000.0
+201,Andrei Skoch,51,steel,Russia,6900000000.0
+202,Abdulla bin Ahmad Al Ghurair,-100000,diversified,United Arab Emirates,6800000000.0
+202,Sergei Galitsky,50,retail,Russia,6800000000.0
+202,Pauline MacMillan Keinath,83,Cargill,United States,6800000000.0
+202,Lei Jun,47,smartphones,China,6800000000.0
+202,Frederik Paulsen,67,health care,Sweden,6800000000.0
+202,Quek Leng Chan,76,"banking, property",Malaysia,6800000000.0
+202,Melker Schorling,70,investments,Sweden,6800000000.0
+209,David Duffield,77,business software,United States,6700000000.0
+209,Michael Kadoorie,76,"hotels, energy",Hong Kong,6700000000.0
+209,Li Shufu,54,automobiles,China,6700000000.0
+209,Sandra Ortega Mera,49,Zara,Spain,6700000000.0
+209,Suh Kyung-Bae,54,cosmetics,South Korea,6700000000.0
+209,Zhang Shiping,70,aluminum products,China,6700000000.0
+215,Giorgio Armani,83,luxury goods,Italy,6600000000.0
+215,John Grayken,61,private equity,Ireland,6600000000.0
+215,Liu Yongxing,69,agribusiness,China,6600000000.0
+215,Xu Shihui,59,"snacks, beverages",China,6600000000.0
+219,Goh Cheng Liang,90,paints,Singapore,6500000000.0
+219,Bruce Halle,87,tires,United States,6500000000.0
+219,Ananda Krishnan,79,"telecoms, media, oil-services",Malaysia,6500000000.0
+219,Richard LeFrak,72,real estate,United States,6500000000.0
+219,Iskander Makhmudov,53,"mining, metals, machinery",Russia,6500000000.0
+224,John A. Sobrato,78,real estate,United States,6400000000.0
+224,Les Wexner,80,retail,United States,6400000000.0
+226,Garrett Camp,39,Uber Technologies,Canada,6300000000.0
+226,Leonid Fedun,61,oil,Russia,6300000000.0
+226,Guo Guangchang,50,conglomerate,China,6300000000.0
+226,Mikhail Gutseriev,59,"oil, real estate",Russia,6300000000.0
+226,Travis Kalanick,41,Uber,United States,6300000000.0
+226,Suleiman Kerimov,51,investments,Russia,6300000000.0
+226,Carrie Perrodo,66,oil,France,6300000000.0
+226,Anders Holch Povlsen,45,fashion retail,Denmark,6300000000.0
+234,David Green,76,retail,United States,6200000000.0
+234,Robert Rowling,64,investments,United States,6200000000.0
+234,Tsai Eng-Meng,60,"food, beverages",Taiwan,6200000000.0
+237,Jorn Rausing,57,packaging,Sweden,6100000000.0
+237,Johann Rupert,67,luxury goods,South Africa,6100000000.0
+239,Marian Ilitch,84,"pizza, sports team",United States,6000000000.0
+239,Ann Walton Kroenke,68,Wal-Mart,United States,6000000000.0
+239,Jay Y. Lee,49,Samsung,South Korea,6000000000.0
+239,Pan Zhengmin,47,electronics,China,6000000000.0
+239,Finn Rausing,62,packaging,Sweden,6000000000.0
+239,Kirsten Rausing,65,packaging,Sweden,6000000000.0
+239,Dennis Washington,83,"construction, mining",United States,6000000000.0
+239,Xu Chuanhua,82,"chemicals, logistics",China,6000000000.0
+247,Francis Choi,70,real estate,Hong Kong,5900000000.0
+247,Erivan Haub,85,retail,Germany,5900000000.0
+247,Wei Jianjun,53,automobiles,China,5900000000.0
+250,Gautam Adani,55,"commodities, ports",India,5800000000.0
+250,Mike Adenuga,64,"telecom, oil",Nigeria,5800000000.0
+250,Maria Asuncion Aramburuzabala,54,"beer, investments",Mexico,5800000000.0
+250,Daniel Gilbert,55,Quicken Loans,United States,5800000000.0
+250,"John Gokongwei, Jr.",91,food and beverage,Philippines,5800000000.0
+250,Gong Hongjia,52,investments,Hong Kong,5800000000.0
+250,Charles Johnson,84,money management,United States,5800000000.0
+250,Ian & Richard Livingstone,-100000,real estate,United Kingdom,5800000000.0
+250,Hiroshi Mikitani,52,online retail,Japan,5800000000.0
+250,Augusto & Giorgio Perfetti,-100000,candy,Italy,5800000000.0
+250,Joseph Tsai,53,e-commerce,Canada,5800000000.0
+261,Dannine Avara,53,pipelines,United States,5700000000.0
+261,Scott Duncan,35,pipelines,United States,5700000000.0
+261,Andrew Forrest,56,mining,Australia,5700000000.0
+261,Milane Frantz,48,pipelines,United States,5700000000.0
+261,Lu Guanqiu,72,conglomerate,China,5700000000.0
+261,Ludwig Merckle,52,pharmaceuticals,Germany,5700000000.0
+261,Randa Williams,56,pipelines,United States,5700000000.0
+261,Yan Zhi,44,real estate,China,5700000000.0
+269,Brian Acton,45,WhatsApp,United States,5600000000.0
+269,Chan Laiwa,76,real estate,China,5600000000.0
+269,Richard DeVos,91,Amway,United States,5600000000.0
+269,Eva Gonda de Rivera,-100000,beverages,Mexico,5600000000.0
+269,Joe Lewis,80,investments,United Kingdom,5600000000.0
+269,Frank Lowy,87,shopping malls,Australia,5600000000.0
+269,Whitney MacMillan,88,Cargill,United States,5600000000.0
+269,Jim Pattison,89,diversified,Canada,5600000000.0
+269,Emanuele (Lino) Saputo,80,cheese,Canada,5600000000.0
+269,Nassef Sawiris,56,"construction, chemicals",Egypt,5600000000.0
+269,Stef Wertheimer,91,metalworking tools,Israel,5600000000.0
+269,Christoffel Wiese,76,retail,South Africa,5600000000.0
+281,Leon Black,66,private equity,United States,5500000000.0
+281,Antonia Johnson,74,diversified,Sweden,5500000000.0
+281,Bruce Kovner,72,hedge funds,United States,5500000000.0
+281,Ralph Lauren,78,Ralph Lauren,United States,5500000000.0
+281,Lin Yu-Ling,81,real estate,Taiwan,5500000000.0
+281,Shashi & Ravi Ruia,-100000,diversified,India,5500000000.0
+281,Hansjoerg Wyss,82,medical devices,Switzerland,5500000000.0
+288,Hui Wing Mau,67,real estate,Hong Kong,5400000000.0
+288,Vikram Lal,75,motorcycles,India,5400000000.0
+288,Sri Prakash Lohia,65,polyester,Indonesia,5400000000.0
+288,Sumner Redstone,94,media,United States,5400000000.0
+288,David Shaw,66,hedge funds,United States,5400000000.0
+288,Christy Walton,68,Wal-Mart,United States,5400000000.0
+294,Guenther Fielmann,78,optometry,Germany,5300000000.0
+294,Law Kar Po,69,real estate,Hong Kong,5300000000.0
+294,Ted Lerner,92,real estate,United States,5300000000.0
+294,Margarita Louis-Dreyfus,55,commodities,Switzerland,5300000000.0
+294,George Lucas,73,Star Wars,United States,5300000000.0
+294,Trevor Rees-Jones,66,oil & gas,United States,5300000000.0
+294,Odd Reitan,66,"retail, real estate",Norway,5300000000.0
+294,David Sun,66,computer hardware,United States,5300000000.0
+294,John Tu,76,computer hardware,United States,5300000000.0
+303,Benu Gopal Bangur,86,cement,India,5200000000.0
+303,Juan Francisco Beckmann Vidal,77,tequila,Mexico,5200000000.0
+303,Vincent Bollore,65,investments,France,5200000000.0
+303,John Doerr,66,venture capital,United States,5200000000.0
+303,Israel Englander,69,hedge funds,United States,5200000000.0
+303,Savitri Jindal,67,steel,India,5200000000.0
+303,Jerry Jones,75,Dallas Cowboys,United States,5200000000.0
+303,Tom & Judy Love,80,retail & gas stations,United States,5200000000.0
+303,Wolfgang Marguerre,76,pharmaceuticals,Germany,5200000000.0
+303,Arnon Milchan,72,movie making,Israel,5200000000.0
+303,Pankaj Patel,64,pharmaceuticals,India,5200000000.0
+303,Maria-Elisabeth Schaeffler,76,auto parts,Germany,5200000000.0
+315,Jim Davis,74,New Balance,United States,5100000000.0
+315,Oleg Deripaska,49,"aluminum, utilities",Russia,5100000000.0
+315,Ivan Glasenberg,60,mining,Switzerland,5100000000.0
+315,"Rupert Johnson, Jr.",77,money management,United States,5100000000.0
+315,Robert Kraft,76,New England Patriots,United States,5100000000.0
+315,Kwee family,70,Real Estate,Singapore,5100000000.0
+315,Steven Rales,66,manufacturing,United States,5100000000.0
+315,Juan Roig,68,supermarkets,Spain,5100000000.0
+315,Bruno Schroder,84,banking,United Kingdom,5100000000.0
+324,David & Frederick Barclay,83,"media, retail",United Kingdom,5000000000.0
+324,Pierre Bellon,87,food services,France,5000000000.0
+324,Richard Branson,67,Virgin,United Kingdom,5000000000.0
+324,Tamara Gustavson,56,self storage,United States,5000000000.0
+324,Henry Kravis,73,private equity,United States,5000000000.0
+324,Dan Olsson,70,diversified,Sweden,5000000000.0
+324,George Roberts,74,private equity,United States,5000000000.0
+324,"Edward Roski, Jr.",78,real estate,United States,5000000000.0
+324,Wee Cho Yaw,88,banking,Singapore,5000000000.0
+324,Sam Zell,76,"real estate, private equity",United States,5000000000.0
+334,Shari Arison,60,Carnival Cruises,Israel,4900000000.0
+334,Pollyanna Chu,59,financial services,Hong Kong,4900000000.0
+334,Chung Mong-Koo,79,motor vehicles,South Korea,4900000000.0
+334,Albert Frere,91,investments,Belgium,4900000000.0
+334,Kwon Hyuk-Bin,43,online games,South Korea,4900000000.0
+339,Philip & Cristina Green,65,fashion retail,United Kingdom,4800000000.0
+339,Ray Lee Hunt,74,"oil, real estate",United States,4800000000.0
+339,Willi & Isolde Liebherr,-100000,construction,Switzerland,4800000000.0
+339,Lu Zhiqiang,65,real estate,China,4800000000.0
+339,John Overdeck,47,hedge funds,United States,4800000000.0
+339,David Siegel,56,hedge funds,United States,4800000000.0
+339,Daniel Ziff,46,investments,United States,4800000000.0
+339,Dirk Ziff,53,investments,United States,4800000000.0
+339,Robert Ziff,51,investments,United States,4800000000.0
+348,Stanley Druckenmiller,64,hedge funds,United States,4700000000.0
+348,Desh Bandhu Gupta,79,pharmaceuticals,India,4700000000.0
+348,"Paul Tudor Jones, II.",63,hedge funds,United States,4700000000.0
+348,Lee Shin Cheng,78,"palm oil, property",Malaysia,4700000000.0
+348,Denis O'Brien,59,telecom,Ireland,4700000000.0
+348,Pan Sutong,54,"real estate, finance",Hong Kong,4700000000.0
+348,Horst Paulmann,82,retail,Chile,4700000000.0
+348,Alejandro Santo Domingo,40,beer,United States,4700000000.0
+348,Andres Santo Domingo,39,beer,United States,4700000000.0
+348,Thomas Schmidheiny,71,cement,Switzerland,4700000000.0
+348,Hong Piow Teh,87,banking,Malaysia,4700000000.0
+359,Rinat Akhmetov,51,"steel, coal",Ukraine,4600000000.0
+359,Pyotr Aven,62,"oil, banking, telecom",Russia,4600000000.0
+359,Rahel Blocher,41,chemicals,Switzerland,4600000000.0
+359,Charles Dolan,91,cable television,United States,4600000000.0
+359,Laurence Graff,79,diamond jewelry,United Kingdom,4600000000.0
+359,Liu Yonghao,66,agribusiness,China,4600000000.0
+359,Chairul Tanjung,55,diversified,Indonesia,4600000000.0
+359,Zhao Tao,51,pharmaceuticals,Singapore,4600000000.0
+367,Alexander Abramov,58,"steel, mining",Russia,4500000000.0
+367,Clive Calder,70,record label,United Kingdom,4500000000.0
+367,Andrei Guriev,57,fertilizers,Russia,4500000000.0
+367,Arthur Irving,87,oil,Canada,4500000000.0
+367,Bidzina Ivanishvili,61,investments,Georgia,4500000000.0
+367,Micky Jagtiani,66,retail,India,4500000000.0
+367,Karl-Heinz Kipp,93,retail,Germany,4500000000.0
+367,Magdalena Martullo-Blocher,48,chemicals,Switzerland,4500000000.0
+367,Michael Platt,49,hedge funds,United Kingdom,4500000000.0
+367,Sergei Popov,46,banking,Russia,4500000000.0
+367,Mitchell Rales,61,"manufacturing, investments",United States,4500000000.0
+367,Leandro Rizzuto,79,consumer products,United States,4500000000.0
+367,John Sall,69,software,United States,4500000000.0
+367,Mark Scheinberg,43,online gambling,Canada,4500000000.0
+367,Andreas von Bechtolsheim,62,Google,Germany,4500000000.0
+367,Kelcy Warren,62,pipelines,United States,4500000000.0
+367,Wu Yajun,53,real estate,China,4500000000.0
+367,M.A. Yusuff Ali,62,retail,India,4500000000.0
+385,Americo Amorim,83,"energy, investments",Portugal,4400000000.0
+385,Dona Bertarelli,49,biotech,Switzerland,4400000000.0
+385,Subhash Chandra,66,media,India,4400000000.0
+385,Frits Goldschmeding,84,temp agency,Netherlands,4400000000.0
+385,Michael Herz,74,coffee,Germany,4400000000.0
+385,Wolfgang Herz,66,coffee,Germany,4400000000.0
+385,Richard Li,51,telecom,Hong Kong,4400000000.0
+385,Akira Mori,81,real estate,Japan,4400000000.0
+385,Axel Oberwelland,50,candy,Germany,4400000000.0
+385,Anthony Pratt,57,packaging,Australia,4400000000.0
+385,Karen Pritzker,59,"hotels, investments",United States,4400000000.0
+385,Paolo & Gianfelice Mario Rocca,-100000,pipe manufacturing,Italy,4400000000.0
+385,Reinhold Schmieding,62,medical devices,United States,4400000000.0
+385,Sheldon Solow,89,real estate,United States,4400000000.0
+385,Ronda Stryker,63,medical equipment,United States,4400000000.0
+385,Tong Jinquan,63,real estate,China,4400000000.0
+385,Wang Wenxue,50,real estate,China,4400000000.0
+402,Jeffery Hildebrand,58,oil,United States,4300000000.0
+402,"Jeremy Jacobs, Sr.",77,concessions,United States,4300000000.0
+402,Kim Jung-Ju,49,online games,South Korea,4300000000.0
+402,Andrei Kozitsyn,57,metals,Russia,4300000000.0
+402,Nancy Walton Laurie,66,Wal-Mart,United States,4300000000.0
+402,Gwendolyn Sontheim Meyer,56,Cargill,United States,4300000000.0
+402,Elisabeth Mohn,76,publishing,Germany,4300000000.0
+402,Jeffrey Skoll,52,eBay,United States,4300000000.0
+402,Frederick Smith,73,FedEx,United States,4300000000.0
+402,Sun Piaoyang,59,pharmaceuticals,China,4300000000.0
+402,Martin Viessmann,64,heating equipment,Germany,4300000000.0
+402,Yeung Kin-man,-100000,electronics,Hong Kong,4300000000.0
+414,Jeronimo Arango,91,retail,Mexico,4200000000.0
+414,David Cheriton,66,Google,Canada,4200000000.0
+414,James Dyson,70,vacuums,United Kingdom,4200000000.0
+414,Pansy Ho,55,casinos,Hong Kong,4200000000.0
+414,Martha Ingram,82,"book distribution, transportation",United States,4200000000.0
+414,Michel Leclercq,78,sporting goods,France,4200000000.0
+414,Theo Mueller,77,dairy,Germany,4200000000.0
+414,Michael Pieper,71,kitchen appliances,Switzerland,4200000000.0
+414,Vichai Srivaddhanaprabha,59,duty-free,Thailand,4200000000.0
+414,Leonard Stern,79,real estate,United States,4200000000.0
+414,Keiichiro Takahara,86,diapers,Japan,4200000000.0
+414,Wang Chuanfu,51,"batteries, automobiles",China,4200000000.0
+414,Samuel Yin,67,diversified,Taiwan,4200000000.0
+427,Abdulla Al Futtaim,-100000,"auto dealers, investments",United Arab Emirates,4100000000.0
+427,Suhail Bahwan,78,diversified,Oman,4100000000.0
+427,Lam Wai Ying,-100000,smartphone screens,Hong Kong,4100000000.0
+427,Angela Leong,56,casinos,Hong Kong,4100000000.0
+427,Fredrik Lundberg,66,"real estate, investments",Sweden,4100000000.0
+427,Ma Jianrong,53,"textiles, apparel",China,4100000000.0
+427,Gabe Newell,55,videogames,United States,4100000000.0
+427,Terrence Pegula,66,natural gas,United States,4100000000.0
+427,Ira Rennert,83,investments,United States,4100000000.0
+427,J. Christopher Reyes,63,food distribution,United States,4100000000.0
+427,Jude Reyes,62,food distribution,United States,4100000000.0
+427,Kushal Pal Singh,86,real estate,India,4100000000.0
+427,Xu Bo,39,mobile games,China,4100000000.0
+427,Zhang Jindong,54,appliance retailer,China,4100000000.0
+441,Robert Bass,69,"oil, investments",United States,4000000000.0
+441,Marc Benioff,53,business software,United States,4000000000.0
+441,Jean-Michel Besnier,50,cheese,France,4000000000.0
+441,Marie Besnier Beauvalot,37,cheese,France,4000000000.0
+441,John Gandel,83,shopping malls,Australia,4000000000.0
+441,Bertil Hult,76,education,Sweden,4000000000.0
+441,James Jannard,68,sunglasses,United States,4000000000.0
+441,Jason Jiang,44,advertising,China,4000000000.0
+441,Patrick Lee,75,paper,Hong Kong,4000000000.0
+441,Bernard Marcus,88,Home Depot,United States,4000000000.0
+441,Alain Merieux,79,pharmaceuticals,France,4000000000.0
+441,John Morris,69,sporting goods retail,United States,4000000000.0
+441,Bobby Murphy,29,Snapchat,United States,4000000000.0
+441,Isaac Perlmutter,74,Marvel comics,United States,4000000000.0
+441,"H. Ross Perot, Sr.",87,"computer services, real estate",United States,4000000000.0
+441,Stewart and Lynda Resnick,-100000,"agriculture, water",United States,4000000000.0
+441,"Robert Rich, Jr.",76,frozen foods,United States,4000000000.0
+441,Evan Spiegel,27,Snapchat,United States,4000000000.0
+441,Russ Weiner,47,energy drinks,United States,4000000000.0
+460,"Austen Cargill, II.",66,Cargill,United States,3900000000.0
+460,"James Cargill, II.",68,Cargill,United States,3900000000.0
+460,Vanich Chaiyawan,85,"insurance, beverages",Thailand,3900000000.0
+460,Traudl Engelhorn,-100000,"pharmaceuticals, medical equipment",Germany,3900000000.0
+460,Diane Hendricks,70,roofing,United States,3900000000.0
+460,Ji Changqun,49,real estate,China,3900000000.0
+460,Nathan Kirsh,85,"retail, real estate",Swaziland,3900000000.0
+460,Marianne Liebmann,64,Cargill,United States,3900000000.0
+460,Luo Jye,91,tires,Taiwan,3900000000.0
+460,Mary Alice Dorrance Malone,67,Campbell Soup,United States,3900000000.0
+460,Ermirio Pereira de Moraes,85,diversified,Brazil,3900000000.0
+460,Maria Helena Moraes Scripilliti,87,diversified,Brazil,3900000000.0
+460,Naguib Sawiris,63,telecom,Egypt,3900000000.0
+460,Friede Springer,75,publishing,Germany,3900000000.0
+474,Prince Sultan bin Mohammed bin Saud Al Kabeer,63,dairy farms,Saudi Arabia,3800000000.0
+474,Stephen Bisciotti,57,"staffing, Baltimore Ravens",United States,3800000000.0
+474,Nathan Blecharczyk,34,Airbnb,United States,3800000000.0
+474,Rick Caruso,58,real estate,United States,3800000000.0
+474,Bubba Cathy,63,Chick-fil-A,United States,3800000000.0
+474,Dan Cathy,64,Chick-fil-A,United States,3800000000.0
+474,Brian Chesky,36,Airbnb,United States,3800000000.0
+474,Giuseppe De'Longhi,78,coffee makers,Italy,3800000000.0
+474,Ralph Dommermuth,54,internet service provider,Germany,3800000000.0
+474,Joe Gebbia,36,Airbnb,United States,3800000000.0
+474,Jia Yueting,44,online video,China,3800000000.0
+474,H. Fisk Johnson,59,cleaning products,United States,3800000000.0
+474,Imogene Powers Johnson,87,cleaning products,United States,3800000000.0
+474,S. Curtis Johnson,62,cleaning products,United States,3800000000.0
+474,Helen Johnson-Leipold,60,cleaning products,United States,3800000000.0
+474,Winifred Johnson-Marquart,58,cleaning products,United States,3800000000.0
+474,Barry Lam,68,electronics,Taiwan,3800000000.0
+474,Liang Wengen,60,construction equipment,China,3800000000.0
+474,Niels Peter Louis-Hansen,70,medical devices,Denmark,3800000000.0
+474,Kalanithi Maran,52,media,India,3800000000.0
+474,Jose Roberto Marinho,61,media,Brazil,3800000000.0
+474,Roberto Irineu Marinho,70,media,Brazil,3800000000.0
+474,Clayton Mathile,76,pet food,United States,3800000000.0
+474,Siegfried Meister,79,appliances,Germany,3800000000.0
+474,"Julian Robertson, Jr.",85,hedge funds,United States,3800000000.0
+474,"Walter Scott, Jr.",86,"utilities, telecom",United States,3800000000.0
+474,Joan Tisch,90,diversified,United States,3800000000.0
+501,Martin & Olivier Bouygues,-100000,"construction, media",France,3700000000.0
+501,Archie Aldis Emmerson,88,"timberland, lumber mills",United States,3700000000.0
+501,Juan Carlos Escotet,58,banking,Venezuela,3700000000.0
+501,Ken Fisher,66,money management,United States,3700000000.0
+501,Joao Roberto Marinho,64,media,Brazil,3700000000.0
+501,Igor Olenicoff,75,real estate,United States,3700000000.0
+501,Ajay Piramal,62,pharmaceuticals,India,3700000000.0
+501,Wolfgang Reimann,65,consumer goods,Germany,3700000000.0
+501,Matthias Reimann-Andersen,52,consumer goods,Germany,3700000000.0
+501,Stefan Reimann-Andersen,54,consumer goods,Germany,3700000000.0
+501,Renate Reimann-Haas,66,consumer goods,Germany,3700000000.0
+501,Hussain Sajwani,64,real estate,United Arab Emirates,3700000000.0
+501,Vivek Chaand Sehgal,61,auto parts,Australia,3700000000.0
+501,"Clemmie Spangler, Jr.",85,investments,United States,3700000000.0
+501,Jerry Speyer,77,real estate,United States,3700000000.0
+501,Steven Spielberg,70,Movies,United States,3700000000.0
+501,Lucio Tan,83,diversified,Philippines,3700000000.0
+501,Yitzhak Tshuva,69,real estate,Israel,3700000000.0
+501,Steven Udvar-Hazy,71,aircraft leasing,United States,3700000000.0
+501,Murat Ulker,58,food manufacturing,Turkey,3700000000.0
+501,Roger Wang,68,retail,United States,3700000000.0
+522,Juergen Blickle,70,auto parts,Germany,3600000000.0
+522,Vivien Chen,58,real estate,Hong Kong,3600000000.0
+522,Denise Coates,50,online gambling,United Kingdom,3600000000.0
+522,Dan Friedkin,52,Toyota dealerships,United States,3600000000.0
+522,Phillip Frost,81,pharmaceuticals,United States,3600000000.0
+522,Jimmy Haslam,63,"gas stations, retail",United States,3600000000.0
+522,Huang Rulun,66,real estate,China,3600000000.0
+522,Masatoshi Ito,93,retail,Japan,3600000000.0
+522,Dmitry Kamenshchik,49,airport,Russia,3600000000.0
+522,Dominika & Sebastian Kulczyk,-100000,diversified,Poland,3600000000.0
+522,Masahiro Miki,62,shoes,Japan,3600000000.0
+522,Michael Milken,71,investments,United States,3600000000.0
+522,Shigenobu Nagamori,73,motors,Japan,3600000000.0
+522,Gary Rollins,73,pest control,United States,3600000000.0
+522,Randall Rollins,86,pest control,United States,3600000000.0
+522,Ricardo Salinas Pliego,62,"retail, media",Mexico,3600000000.0
+522,Henry Samueli,63,semiconductors,United States,3600000000.0
+522,"Bernard Saul, II.",85,"banking, real estate",United States,3600000000.0
+522,Jeff Sutton,57,real estate,United States,3600000000.0
+522,Frank Wang,37,drones,China,3600000000.0
+522,Yu Huijiao,51,package delivery,China,3600000000.0
+522,Zhou Jianping,57,fashion retail,China,3600000000.0
+544,Bajaj brothers,-100000,diversified,India,3500000000.0
+544,Rahul Bajaj,79,motorcycles,India,3500000000.0
+544,Dagmar Dolby,76,Dolby Laboratories,United States,3500000000.0
+544,Jaime Gilinski Bacal,59,banking,Colombia,3500000000.0
+544,Antti Herlin,61,"elevators, escalators",Finland,3500000000.0
+544,Daniela Herz,63,coffee,Germany,3500000000.0
+544,Guenter Herz,77,coffee,Germany,3500000000.0
+544,Peter Kellogg,75,investments,United States,3500000000.0
+544,Lars Larsen,69,retail,Denmark,3500000000.0
+544,Robert McNair,80,"energy, sports",United States,3500000000.0
+544,Yuri Milner,56,"Facebook, investments",Russia,3500000000.0
+544,Pang Kang,61,soy sauce maker,China,3500000000.0
+544,Ravi Pillai,64,construction,India,3500000000.0
+544,Alexandra Schoerghuber,59,real estate,Germany,3500000000.0
+544,Donald Sterling,83,real estate,United States,3500000000.0
+544,Harry Stine,75,agriculture,United States,3500000000.0
+544,Donald Trump,71,"television, real estate",United States,3500000000.0
+544,George Ty,84,banking,Philippines,3500000000.0
+544,Nusli Wadia,73,consumer products,India,3500000000.0
+544,Vladimir Yevtushenkov,69,telecom,Russia,3500000000.0
+564,Andrej Babis,63,agriculture,Czech Republic,3400000000.0
+564,Che Jianxing,51,furniture retailing,China,3400000000.0
+564,Mark Cuban,59,online media,United States,3400000000.0
+564,David Filo,51,Yahoo,United States,3400000000.0
+564,Jeff Greene,62,"real estate, investments",United States,3400000000.0
+564,Chang-Woo Han,86,pachinko parlors,Japan,3400000000.0
+564,Sumet Jiaravanon,83,diversified,Thailand,3400000000.0
+564,Samvel Karapetyan,52,real estate,Russia,3400000000.0
+564,Randal Kirk,63,pharmaceuticals,United States,3400000000.0
+564,Li Shuirong,61,petrochemicals,China,3400000000.0
+564,George Lindemann,81,investments,United States,3400000000.0
+564,Anthony Pritzker,56,"hotels, investments",United States,3400000000.0
+564,Jay Robert (J.B.) Pritzker,52,"hotels, investments",United States,3400000000.0
+564,"Enrique Razon, Jr.",57,ports,Philippines,3400000000.0
+564,Sun Guangxin,54,diversified,China,3400000000.0
+564,Tony Tan Caktiong,64,food,Philippines,3400000000.0
+564,Yu Yong,56,mining,China,3400000000.0
+581,Arthur Blank,75,Home Depot,United States,3300000000.0
+581,Rainer Blickle,70,auto parts,Germany,3300000000.0
+581,Alain Bouchard,68,retail,Canada,3300000000.0
+581,Bernard Broermann,73,hospitals,Germany,3300000000.0
+581,Alejandro Bulgheroni,-100000,oil & gas,Argentina,3300000000.0
+581,John Catsimatidis,69,"oil, real estate",United States,3300000000.0
+581,Jaran Chiaravanont,87,diversified,Thailand,3300000000.0
+581,Abilio dos Santos Diniz,80,retail,Brazil,3300000000.0
+581,Gustaf Douglas,79,investments,Sweden,3300000000.0
+581,Walter Faria,62,beer,Brazil,3300000000.0
+581,Miguel Fluxa Rossello,79,hotels,Spain,3300000000.0
+581,Tom Gores,53,private equity,United States,3300000000.0
+581,Montri Jiaravanont,86,diversified,Thailand,3300000000.0
+581,Johan Johannson,50,grocery stores,Norway,3300000000.0
+581,Edwin Leong,65,real estate,Hong Kong,3300000000.0
+581,Lin Xiucheng,62,electronics,China,3300000000.0
+581,Qiu Guanghe,66,fashion retail,China,3300000000.0
+581,"David Rockefeller, Sr.",102,"real estate, investments",United States,3300000000.0
+581,Shaul Shani,62,telecom,Israel,3300000000.0
+581,Shi Yuzhu,55,"online games, investments",China,3300000000.0
+581,Alexander Svetakov,49,"banking, real estate",Russia,3300000000.0
+581,Wang Yusuo,53,natural gas distribution,China,3300000000.0
+603,Anil Agarwal,64,"mining, metals",India,3200000000.0
+603,Patrizio Bertelli,71,luxury goods,Italy,3200000000.0
+603,Kapil & Rahul Bhatia,-100000,airlines,India,3200000000.0
+603,Neil Bluhm,79,real estate,United States,3200000000.0
+603,Chey Tae-Won,56,"IT, telecom",South Korea,3200000000.0
+603,Jack & Laura Dangermond,72,mapping software,United States,3200000000.0
+603,Kuldip Singh & Gurbachan Singh Dhingra,-100000,paints,India,3200000000.0
+603,Bennett Dorrance,71,Campbell Soup,United States,3200000000.0
+603,Lindsay Fox,80,"logistics, real estate",Australia,3200000000.0
+603,"Amos Hostetter, Jr.",80,cable television,United States,3200000000.0
+603,Jiang Bin,51,acoustic components,China,3200000000.0
+603,Ronald Lauder,73,Estee Lauder,United States,3200000000.0
+603,Sudhir & Samir Mehta,-100000,diversified,India,3200000000.0
+603,Jorge Moll Filho,72,hospitals,Brazil,3200000000.0
+603,Fernando Roberto Moreira Salles,71,"banking, minerals",Brazil,3200000000.0
+603,Joao Moreira Salles,55,"banking, minerals",Brazil,3200000000.0
+603,Pedro Moreira Salles,58,"banking, minerals",Brazil,3200000000.0
+603,Walther Moreira Salles Junior,61,"banking, minerals",Brazil,3200000000.0
+603,Michael Moritz,63,venture capital,United States,3200000000.0
+603,Nie Tengyun,41,logistics,China,3200000000.0
+603,Daniel Och,56,hedge funds,United States,3200000000.0
+603,Miuccia Prada,68,luxury goods,Italy,3200000000.0
+603,Thomas Pritzker,67,"hotels, investments",United States,3200000000.0
+603,Richard Schulze,76,Best Buy,United States,3200000000.0
+603,Lottie Tham,68,H&M,Sweden,3200000000.0
+603,Ye Chenghai,74,pharmaceuticals,Hong Kong,3200000000.0
+603,Zhang Xin,52,real estate,China,3200000000.0
+630,Riley Bechtel,65,"engineering, construction",United States,3100000000.0
+630,"Stephen Bechtel, Jr.",92,"engineering, construction",United States,3100000000.0
+630,Rossana Camargo de Arruda Botelho,67,construction,Brazil,3100000000.0
+630,Andrew & Peggy Cherng,-100000,restaurants,United States,3100000000.0
+630,David Consunji,96,construction,Philippines,3100000000.0
+630,John Paul DeJoria,73,"hair products, tequila",United States,3100000000.0
+630,Isabel dos Santos,44,investments,Angola,3100000000.0
+630,Andreas Halvorsen,56,hedge funds,Norway,3100000000.0
+630,Reid Hoffman,50,LinkedIn,United States,3100000000.0
+630,Viatcheslav Kantor,64,"fertilizer, real estate",Russia,3100000000.0
+630,Marc Ladreit de Lacharriere,77,finance,France,3100000000.0
+630,Liu Zhongtian,53,aluminum products,China,3100000000.0
+630,Yusaku Maezawa,41,online retail,Japan,3100000000.0
+630,Sergio Mantegazza,90,travel,Switzerland,3100000000.0
+630,Ronald McAulay,82,energy,Hong Kong,3100000000.0
+630,Pawan Munjal,63,motorcycles,India,3100000000.0
+630,Renata de Camargo Nascimento,66,construction,Brazil,3100000000.0
+630,God Nisanov,45,real estate,Russia,3100000000.0
+630,Idan Ofer,62,"drilling, shipping",Israel,3100000000.0
+630,Regina de Camargo Pires Oliveira Dias,63,construction,Brazil,3100000000.0
+630,Julio Ponce Lerou,72,fertilizer,Chile,3100000000.0
+630,Issad Rebrab,73,food,Algeria,3100000000.0
+630,Teddy Sagi,46,gambling software,Israel,3100000000.0
+630,Lynn Schusterman,78,"oil & gas, investments",United States,3100000000.0
+630,Andreas Struengmann,67,pharmaceuticals,Germany,3100000000.0
+630,Thomas Struengmann,67,pharmaceuticals,Germany,3100000000.0
+630,Daniel Tsai,61,finance,Taiwan,3100000000.0
+630,Richard Tsai,60,finance,Taiwan,3100000000.0
+630,Simon Xie,47,online payment service,China,3100000000.0
+630,Yang Kai,60,dairy products,China,3100000000.0
+660,John Arnold,43,hedge funds,United States,3000000000.0
+660,Clifford Asness,51,hedge funds,United States,3000000000.0
+660,Edward Bass,72,"oil, investments",United States,3000000000.0
+660,Leon G. Cooperman,74,hedge funds,United States,3000000000.0
+660,Andrew Currie,61,chemicals,United Kingdom,3000000000.0
+660,Antonio Del Valle Ruiz,79,chemicals,Mexico,3000000000.0
+660,Allan Goldman,74,real estate,United States,3000000000.0
+660,Jane Goldman,62,real estate,United States,3000000000.0
+660,Amy Goldman Fowler,63,real estate,United States,3000000000.0
+660,Tom Golisano,76,payroll services,United States,3000000000.0
+660,Zarakh Iliev,51,real estate,Russia,3000000000.0
+660,Diane Kemper,72,real estate,United States,3000000000.0
+660,Kenneth Langone,82,investments,United States,3000000000.0
+660,Samuel Tak Lee,78,real estate,Hong Kong,3000000000.0
+660,James Leprino,79,cheese,United States,3000000000.0
+660,Erwin Franz Mueller,85,drug stores,Germany,3000000000.0
+660,"Henry Nicholas, III.",58,semiconductors,United States,3000000000.0
+660,Akio Nitori,73,home furnishings,Japan,3000000000.0
+660,Husnu Ozyegin,73,"finance, diversified",Turkey,3000000000.0
+660,James Packer,50,casinos,Australia,3000000000.0
+660,Robert Pera,39,wireless networking gear,United States,3000000000.0
+660,Alexander Ponomarenko,53,ports,Russia,3000000000.0
+660,John Reece,60,chemicals,United Kingdom,3000000000.0
+660,Renzo Rosso,62,fashion,Italy,3000000000.0
+660,Haim Saban,73,"TV network, investments",United States,3000000000.0
+660,Howard Schultz,64,Starbucks,United States,3000000000.0
+660,Bernard (Barry) Sherman,75,pharmaceuticals,Canada,3000000000.0
+660,B.R. Shetty,75,healthcare,India,3000000000.0
+660,Alexander Skorobogatko,50,ports,Russia,3000000000.0
+660,Romesh T. Wadhwani,70,software,United States,3000000000.0
+660,Oprah Winfrey,63,TV shows,United States,3000000000.0
+660,Xiao Wenge,50,entertainment,China,3000000000.0
+660,Jacky Xu,45,apparel,St. Kitts and Nevis,3000000000.0
+693,Anthony Bamford,72,construction equipment,United Kingdom,2900000000.0
+693,Lee Bass,61,"oil, investments",United States,2900000000.0
+693,Jean Pierre Cayard,74,spirits,France,2900000000.0
+693,Jason Chang,73,electronics,Singapore,2900000000.0
+693,"Edward DeBartolo, Jr.",71,shopping centers,United States,2900000000.0
+693,Bernard Ecclestone,87,Formula One,United Kingdom,2900000000.0
+693,Tilman Fertitta,60,"restaurants, casinos",United States,2900000000.0
+693,Kieu Hoang,73,medical products,United States,2900000000.0
+693,Min Kao,68,navigation equipment,United States,2900000000.0
+693,Daryl Katz,56,pharmacies,Canada,2900000000.0
+693,Ke Zunhong,63,pharmaceuticals,China,2900000000.0
+693,Kurt Krieger,69,furniture retailing,Germany,2900000000.0
+693,Meisong Lai,46,package delivery,China,2900000000.0
+693,Douglas Leone,60,venture capital,United States,2900000000.0
+693,Daniel Loeb,55,hedge funds,United States,2900000000.0
+693,Park Hyeon-Joo,59,mutual funds,South Korea,2900000000.0
+693,Kjell Inge Rokke,59,"shipping, seafood",Norway,2900000000.0
+693,Chanchai Ruayrungruang,63,real estate,China,2900000000.0
+693,Mark Shoen,67,U-Haul,United States,2900000000.0
+693,Juan-Miguel Villar Mir,86,construction,Spain,2900000000.0
+693,Zhang Fan,51,biometrics,China,2900000000.0
+693,Zhang Xiaojuan,48,logistics,China,2900000000.0
+693,Anita Zucker,65,chemicals,United States,2900000000.0
+693,Mortimer Zuckerman,80,"real estate, media",United States,2900000000.0
+717,Sid Bass,75,"oil, investments",United States,2800000000.0
+717,Yvonne Bauer,40,media,Germany,2800000000.0
+717,Jim Breyer,56,venture capital,United States,2800000000.0
+717,Do Won & Jin Sook Chang,61,fashion retail,United States,2800000000.0
+717,Chen Fashu,57,investments,China,2800000000.0
+717,Charles Cohen,65,real estate,United States,2800000000.0
+717,Rafael Del Pino y Calvo-Sotelo,59,construction,Spain,2800000000.0
+717,Barry Diller,75,online media,United States,2800000000.0
+717,Gao Tianguo,66,"real estate, finance",China,2800000000.0
+717,Peter Hargreaves,71,financial services,United Kingdom,2800000000.0
+717,Hortensia Herrero,67,supermarkets,Spain,2800000000.0
+717,Heidi Horten,76,retail,Austria,2800000000.0
+717,Huang Shih Tsai,66,real estate,Hong Kong,2800000000.0
+717,B. Wayne Hughes,84,self storage,United States,2800000000.0
+717,Bernardo Matte,62,paper,Chile,2800000000.0
+717,Eliodoro Matte,72,paper,Chile,2800000000.0
+717,Patricia Matte,74,paper,Chile,2800000000.0
+717,Hans Melchers,79,"chemicals, investments",Netherlands,2800000000.0
+717,John Middleton,62,tobacco,United States,2800000000.0
+717,A. Jerrold Perenchio,86,"television, Univision",United States,2800000000.0
+717,Jorge Perez,68,real estate,United States,2800000000.0
+717,Prasert Prasarttong-Osoth,84,hospitals,Thailand,2800000000.0
+717,Gil Shwed,50,software,Israel,2800000000.0
+717,Herbert Simon,83,real estate,United States,2800000000.0
+717,Pat Stryker,61,medical equipment,United States,2800000000.0
+717,Tahir,65,diversified,Indonesia,2800000000.0
+717,Arne Wilhelmsen,87,cruise ships,Norway,2800000000.0
+717,"William Wrigley, Jr.",54,chewing gum,United States,2800000000.0
+745,Anil Ambani,58,diversified,India,2700000000.0
+745,Carlo Benetton,73,"fashion retail, investments",Italy,2700000000.0
+745,Gilberto Benetton,76,"fashion retail, investments",Italy,2700000000.0
+745,Giuliana Benetton,80,"fashion retail, investments",Italy,2700000000.0
+745,Luciano Benetton,82,"fashion retail, investments",Italy,2700000000.0
+745,John Brown,83,medical equipment,United States,2700000000.0
+745,Cai Kui,54,real estate,China,2700000000.0
+745,Cao Longxiang,60,pharmaceuticals,China,2700000000.0
+745,Ashwin Dani,75,paints,India,2700000000.0
+745,Ray Davis,75,pipelines,United States,2700000000.0
+745,"John Dorrance, III.",73,Campbell Soup,Ireland,2700000000.0
+745,Martin Haefner,63,"software, investments",Switzerland,2700000000.0
+745,Otto Happel,69,engineering,Germany,2700000000.0
+745,Joshua Harris,52,private equity,United States,2700000000.0
+745,Jen-Hsun Huang,54,semiconductors,United States,2700000000.0
+745,Huang Wei,58,real estate,China,2700000000.0
+745,H. Wayne Huizenga,79,investments,United States,2700000000.0
+745,Johnelle Hunt,85,trucking,United States,2700000000.0
+745,Kwek Leng Beng,76,real estate,Singapore,2700000000.0
+745,Friedhelm Loh,71,manufacturing,Germany,2700000000.0
+745,Lu Xiangyang,54,"automobiles, batteries",China,2700000000.0
+745,Mohamed Mansour,69,diversified,Egypt,2700000000.0
+745,Robert Miller,72,electronics components,Canada,2700000000.0
+745,David Murdock,94,"Dole, real estate",United States,2700000000.0
+745,Sebastian Piera,67,investments,Chile,2700000000.0
+745,Carlos Rodriguez-Pastor,58,finance,Peru,2700000000.0
+745,Marc Rowan,55,private equity,United States,2700000000.0
+745,Stephan Schmidheiny,70,investments,Switzerland,2700000000.0
+745,Michael & Reiner Schmidt-Ruthenbeck,-100000,retail,Germany,2700000000.0
+745,Yasumitsu Shigeta,52,mobile phone retailer,Japan,2700000000.0
+745,Paul Singer,73,hedge funds,United States,2700000000.0
+745,Alexandre Soares dos Santos,83,supermarkets,Portugal,2700000000.0
+745,Michal Solowow,55,investments,Poland,2700000000.0
+745,Peter Thiel,50,"Facebook, Palantir",United States,2700000000.0
+745,Rita Tong Liu,68,real estate,Hong Kong,2700000000.0
+745,Wang Xicheng,69,tires,China,2700000000.0
+745,Christoph Zeller,60,dental implants,Liechtenstein,2700000000.0
+782,Mohammed Al Issa,92,investments,Saudi Arabia,2600000000.0
+782,Carlos Ardila L�lle,87,"soft drinks, diversified",Colombia,2600000000.0
+782,Michael Ashley,53,sports retailing,United Kingdom,2600000000.0
+782,Tom Benson,90,New Orleans Saints,United States,2600000000.0
+782,Otto Philipp Braun,39,medical technology,Germany,2600000000.0
+782,Chung Eui-Sun,47,logistics,South Korea,2600000000.0
+782,Robert Duggan,73,pharmaceuticals,United States,2600000000.0
+782,Martin Ebner,72,investments,Switzerland,2600000000.0
+782,Doris Fisher,86,Gap,United States,2600000000.0
+782,Philippe Foriel-Destezet,82,employment agency,France,2600000000.0
+782,Fiona Geminder,52,manufacturing,Australia,2600000000.0
+782,Bill Haslam,59,truck stops,United States,2600000000.0
+782,Henry Hillman,98,investments,United States,2600000000.0
+782,Louis Le Duff,71,bakeries,France,2600000000.0
+782,Lei Jufang,64,pharmaceuticals,China,2600000000.0
+782,Scott Lin,-100000,optical components,Taiwan,2600000000.0
+782,"Stephen Mandel, Jr.",61,hedge funds,United States,2600000000.0
+782,Najib Mikati,61,telecom,Lebanon,2600000000.0
+782,Taha Mikati,72,telecom,Lebanon,2600000000.0
+782,Robert Miller,84,retail,United Kingdom,2600000000.0
+782,Yoshiko Mori,77,real estate,Japan,2600000000.0
+782,Sean Parker,37,Facebook,United States,2600000000.0
+782,Karsanbhai Patel,73,consumer goods,India,2600000000.0
+782,Rajan Raheja,63,diversified,India,2600000000.0
+782,P.V. Ramprasad Reddy,59,pharmaceuticals,India,2600000000.0
+782,Dirk Rossmann,71,drugstores,Germany,2600000000.0
+782,Arkady Rotenberg,65,"construction, pipes, banking",Russia,2600000000.0
+782,Svein Stole,54,investments,Norway,2600000000.0
+782,Lawrence Stroll,58,fashion investments,Canada,2600000000.0
+782,Tsai Hong-tu,65,finance,Taiwan,2600000000.0
+782,Hans Peter Wild,76,flavorings,Switzerland,2600000000.0
+782,Zhang Jin,46,diversified,China,2600000000.0
+814,John Arrillaga,80,real estate,United States,2500000000.0
+814,Acharya Balkrishna,45,consumer goods,India,2500000000.0
+814,Carl Bennet,66,investments,Sweden,2500000000.0
+814,George Bishop,80,oil & gas,United States,2500000000.0
+814,David Bonderman,74,private equity,United States,2500000000.0
+814,Eva Maria Bucher-Haefner,60,Computer Associates,Switzerland,2500000000.0
+814,Peter Buck,86,Subway sandwich shops,United States,2500000000.0
+814,"William Conway, Jr.",68,private equity,United States,2500000000.0
+814,Smita Crishna-Godrej,66,consumer goods,India,2500000000.0
+814,Daniel D'Aniello,71,private equity,United States,2500000000.0
+814,Jim Davis,57,staffing & recruiting,United States,2500000000.0
+814,Kenneth Feld,69,"circus, live entertainment",United States,2500000000.0
+814,Fu Liquan,50,surveillance equipment,China,2500000000.0
+814,Adi Godrej,75,consumer goods,India,2500000000.0
+814,Jamshyd Godrej,68,consumer goods,India,2500000000.0
+814,Nadir Godrej,66,consumer goods,India,2500000000.0
+814,Bill Gross,73,investments,United States,2500000000.0
+814,Caroline Hagen Kjos,33,conglomerate,Norway,2500000000.0
+814,Don Hankey,74,auto loans,United States,2500000000.0
+814,John Henry,68,sports,United States,2500000000.0
+814,James Irsay,58,Indianapolis Colts,United States,2500000000.0
+814,Alicia Koplowitz,63,"construction, investments",Spain,2500000000.0
+814,Guenther Lehmann,-100000,drug stores,Germany,2500000000.0
+814,Li Gaiteng,45,hair dryers,China,2500000000.0
+814,Alexander Mamut,57,investments,Russia,2500000000.0
+814,Rishad Naoroji,66,consumer goods,India,2500000000.0
+814,Adam Neumann,38,WeWork,Israel,2500000000.0
+814,Philip Niarchos,63,art collection,Greece,2500000000.0
+814,"Carolus Nolet, Sr.",76,Ketel One vodka,Netherlands,2500000000.0
+814,Bob Parsons,66,web hosting,United States,2500000000.0
+814,Jay Paul,70,real estate,United States,2500000000.0
+814,Richard Peery,79,real estate,United States,2500000000.0
+814,Jean (Gigi) Pritzker,55,"hotels, investments",United States,2500000000.0
+814,Penny Pritzker,58,"hotels, investments",United States,2500000000.0
+814,Chandru Raheja,77,real estate,India,2500000000.0
+814,"Wilbur Ross, Jr.",79,investments,United States,700000000000.0
+814,David Rubenstein,68,private equity,United States,2500000000.0
+814,Phillip Ruffin,82,"casinos, real estate",United States,2500000000.0
+814,Patrick Ryan,80,insurance,United States,2500000000.0
+814,Alvaro Saieh Bendeck,67,banking,Chile,2500000000.0
+814,E. Joe Shoen,68,U-Haul,United States,2500000000.0
+814,Thomas Siebel,64,business software,United States,2500000000.0
+814,Robert Smith,54,private equity,United States,2500000000.0
+814,Zygmunt Solorz-Zak,61,TV broadcasting,Poland,2500000000.0
+814,Warren Stephens,60,investment banking,United States,2500000000.0
+814,Jon Stryker,59,medical equipment,United States,2500000000.0
+814,Andrew Tan,65,diversified,Philippines,2500000000.0
+814,Mark Walter,57,finance,United States,2500000000.0
+814,Wang Xing,44,e-commerce,China,2500000000.0
+814,Ty Warner,73,"real estate, plush toys",United States,2500000000.0
+814,Steve Wynn,75,"casinos, hotels",United States,2500000000.0
+814,Michael Ying,67,retail,Hong Kong,2500000000.0
+814,Zhang Bangxin,37,after-school tutoring,China,2500000000.0
+867,Faisal Bin Qassim Al Thani,69,"hotels, diversified",Qatar,2400000000.0
+867,Semahat Sevim Arsel,89,diversified,Turkey,2400000000.0
+867,Tatiana Casiraghi,33,beer,Monaco,2400000000.0
+867,Hasmukh Chudgar,84,pharmaceuticals,India,2400000000.0
+867,Aloysio de Andrade Faria,97,banking,Brazil,2400000000.0
+867,Judy Faulkner,74,health IT,United States,2400000000.0
+867,Fong Yun Wah,92,real estate,Hong Kong,2400000000.0
+867,Baba Kalyani,68,engineering,India,2400000000.0
+867,Igor Kesaev,51,"tobacco distribution, retail",Russia,2400000000.0
+867,Raj Kumar & Kishin RK,63,real estate,Singapore,2400000000.0
+867,Kuok Khoon Hong,67,palm oil,Singapore,2400000000.0
+867,Manuel Lao Hernandez,73,gambling,Spain,2400000000.0
+867,Li Wa,51,real estate,Hong Kong,2400000000.0
+867,C. Dean Metropoulos,71,investments,United States,2400000000.0
+867,Alexander Nesis,54,"metals, banking, fertilizers",Russia,2400000000.0
+867,Kazuo Okada,75,casinos,Japan,2400000000.0
+867,John Pritzker,64,"hotels, investments",United States,2400000000.0
+867,Qiu Jianping,55,hand tools,China,2400000000.0
+867,"Julio Mario Santo Domingo, III.",32,beer,United States,2400000000.0
+867,Thomas Secunda,63,Bloomberg LP,United States,2400000000.0
+867,Shen Guojun,55,retail,China,2400000000.0
+867,Alexander Spanos,94,"real estate, Los Angeles Chargers",United States,2400000000.0
+867,Sarik Tara,87,construction,Turkey,2400000000.0
+867,Clemens Toennies,61,meat processing,Germany,2400000000.0
+867,Hanni Toosbuy Kasprzak,60,shoes,Denmark,2400000000.0
+867,Sunil Vaswani,54,diversified,United Kingdom,2400000000.0
+867,Radovan Vitek,46,real estate,Czech Republic,2400000000.0
+867,Pham Nhat Vuong,49,real estate,Vietnam,2400000000.0
+867,Denise York,67,San Francisco 49ers,United States,2400000000.0
+896,Charles Bronfman,86,liquor,Canada,2300000000.0
+896,Nick Caporella,81,beverages,United States,2300000000.0
+896,Chan Tan Ching-fen,-100000,real estate,Hong Kong,2300000000.0
+896,Chu Mang Yee,57,real estate,China,2300000000.0
+896,Scott Cook,65,software,United States,2300000000.0
+896,Radhakishan Damani,62,"investments, retail",India,2300000000.0
+896,Eduardo Eurnekian,84,"airports, investments",Argentina,2300000000.0
+896,Feng Hailiang,57,"copper, real estate",China,2300000000.0
+896,Gerald Ford,73,banking,United States,2300000000.0
+896,Bernard Fraisse,61,pharmaceuticals,France,2300000000.0
+896,Mitchell Goldhar,56,real estate,Canada,2300000000.0
+896,Noam Gottesman,56,hedge funds,United States,2300000000.0
+896,Stein Erik Hagen,61,consumer goods,Norway,2300000000.0
+896,Stanley Hubbard,84,DirecTV,United States,2300000000.0
+896,Erman Ilicak,50,construction,Turkey,2300000000.0
+896,Jiang Rensheng,64,vaccine production,China,2300000000.0
+896,Saleh Kamel,76,"banking, healthcare",Saudi Arabia,2300000000.0
+896,Lee Joong-Keun,76,"construction, real estate",South Korea,2300000000.0
+896,Bernard Lewis,91,fashion retailer,United Kingdom,2300000000.0
+896,Liang Xinjun,49,conglomerate,China,2300000000.0
+896,Rudolf Maag,71,medical devices,Switzerland,2300000000.0
+896,Farhad Moshiri,62,diversified,United Kingdom,2300000000.0
+896,Vadim Moshkovich,50,"agriculture, land",Russia,2300000000.0
+896,Stefan Olsson,68,diversified,Sweden,2300000000.0
+896,Nicolas Puech,74,Hermes,France,2300000000.0
+896,Qi Shi,47,financial information,China,2300000000.0
+896,Krit Ratanarak,71,"media, real estate",Thailand,2300000000.0
+896,Jeff Rothschild,62,Facebook,United States,2300000000.0
+896,Michael Rubin,45,online retail,United States,2300000000.0
+896,Mikail Shishkhanov,45,"oil, banking, real estate",Russia,2300000000.0
+896,Sit Kwong Lam,49,"oil, transportation",Hong Kong,2300000000.0
+896,Song Zuowen,70,"aluminum, diversified",China,2300000000.0
+896,Tang Yiu,83,fashion retail,Hong Kong,2300000000.0
+896,Tsai Cheng-da,-100000,finance,Taiwan,2300000000.0
+896,Ted Turner,79,cable television,United States,2300000000.0
+896,Bulat Utemuratov,59,"mining, banking, hotels",Kazakhstan,2300000000.0
+896,Meg Whitman,61,eBay,United States,2300000000.0
+896,Chip Wilson,60,Lululemon,Canada,2300000000.0
+896,Xu Jingren,73,pharmaceuticals,China,2300000000.0
+896,Jerry Yang,49,Yahoo,United States,2300000000.0
+896,Yuan Yafei,53,"retail, investments",China,2300000000.0
+896,Zhou Yaoting,74,"apparel, real estate",China,2300000000.0
+896,Zhu Gongshan,59,solar panel materials,China,2300000000.0
+939,Isak Andic,64,fashion retail,Spain,2200000000.0
+939,George Argyros,80,"real estate, investments",United States,2200000000.0
+939,Ron Baron,74,money management,United States,2200000000.0
+939,Nikolai Buinov,50,"oil, gas",Russia,2200000000.0
+939,John Caudwell,65,mobile phones,United Kingdom,2200000000.0
+939,Jose Luis Cutrale,71,orange juice,Brazil,2200000000.0
+939,Ennio Doris,77,financial services,Italy,2200000000.0
+939,Du Jiangtao,48,chemicals,China,2200000000.0
+939,Fang Wei,44,steel,China,2200000000.0
+939,John Fisher,56,Gap,United States,2200000000.0
+939,Joseph Grendys,55,poultry processing,United States,2200000000.0
+939,Bahaa Hariri,51,"real estate, investments, logistics",Lebanon,2200000000.0
+939,Hui Lin Chit,64,hygiene products,China,2200000000.0
+939,Rakesh Jhunjhunwala,57,investments,India,2200000000.0
+939,Brad Kelley,60,tobacco,United States,2200000000.0
+939,Mustafa Rahmi Koc,87,diversified,Turkey,2200000000.0
+939,Karel Komarek,48,oil & gas,Czech Republic,2200000000.0
+939,Thomas Lee,73,private equity,United States,2200000000.0
+939,Jeffrey Lorberbaum,63,flooring,United States,2200000000.0
+939,Joe Mansueto,61,investment research,United States,2200000000.0
+939,Marius Nacht,51,software,Israel,2200000000.0
+939,Hans Georg Naeder,56,prosthetics,Germany,2200000000.0
+939,Daniel Pritzker,58,"hotels, investments",United States,2200000000.0
+939,Stewart Rahr,71,drug distribution,United States,2200000000.0
+939,Ren Zhengfei,73,telecom equipment,China,2200000000.0
+939,Helena Revoredo,70,private security,Spain,2200000000.0
+939,Seo Jung-Jin,60,biotech,South Korea,2200000000.0
+939,Dan Snyder,52,Washington Redskins,United States,2200000000.0
+939,Charlotte Soderstrom,40,H&M,Sweden,2200000000.0
+939,Ralph Sonnenberg,83,blinds,Netherlands,2200000000.0
+939,Sun Xishuang,64,real estate,China,2200000000.0
+939,Sze Man Bok,67,hygiene products,China,2200000000.0
+939,Wu Jianshu,53,auto parts,Hong Kong,2200000000.0
+939,Xue Xiangdong,58,software,China,2200000000.0
+973,S. Daniel Abraham,93,Slim-Fast,United States,2100000000.0
+973,Saif Al Ghurair,93,diversified,United Arab Emirates,2100000000.0
+973,Emilio Azcarraga Jean,49,TV broadcasting,Mexico,2100000000.0
+973,Miriam Baumann-Blocher,42,chemicals,Switzerland,2100000000.0
+973,Koos Bekker,64,"media, investments",South Africa,2100000000.0
+973,Mike Cannon-Brookes,38,software,Australia,2100000000.0
+973,Demetrio Carceller Coll,-100000,"gas, beer",Portugal,2100000000.0
+973,Chen Bang,52,hospitals,China,2100000000.0
+973,Chen Dongsheng,59,insurance,China,2100000000.0
+973,Tony Chen,49,eletronics,Taiwan,2100000000.0
+973,Todd Christopher,55,hair care products,United States,2100000000.0
+973,James Coulter,57,private equity,United States,2100000000.0
+973,Ding Shijia,53,sportswear,China,2100000000.0
+973,Ding Shizhong,46,sports apparel,China,2100000000.0
+973,Hedda im Brahm Droege,62,consulting,Germany,2100000000.0
+973,Scott Farquhar,37,software,Australia,2100000000.0
+973,Rakesh Gangwal,64,airline,United States,2100000000.0
+973,Gordon Getty,83,Getty Oil,United States,2100000000.0
+973,Sam Goi,68,frozen foods,Singapore,2100000000.0
+973,Alec Gores,64,private equity,United States,2100000000.0
+973,Gudrun Heine,63,medical devices,Germany,2100000000.0
+973,Michael Hintze,64,investment,Australia,2100000000.0
+973,Christopher Hohn,51,Hedge fund,United Kingdom,2100000000.0
+973,Jiang Weiping,62,chemicals,China,2100000000.0
+973,Vladimir Kim,57,mining,Kazakhstan,2100000000.0
+973,Timur Kulibaev,51,banking,Kazakhstan,2100000000.0
+973,Dinara Kulibaeva,50,banking,Kazakhstan,2100000000.0
+973,Heikki Kyostila,71,dental products,Finland,2100000000.0
+973,Edward Lampert,55,Sears,United States,2100000000.0
+973,Lau Cho Kun,82,"palm oil,property",Malaysia,2100000000.0
+973,Lee Jay-Hyun,57,"food products, entertainment",South Korea,2100000000.0
+973,Peter Lim,64,investments,Singapore,2100000000.0
+973,Igor Makarov,55,gas,Russia,2100000000.0
+973,Daniel Mate,54,"mining, commodities",Spain,2100000000.0
+973,Kiran Mazumdar-Shaw,64,biotech,India,2100000000.0
+973,Aristotelis Mistakidis,55,"mining, commodities",Greece,2100000000.0
+973,Arturo Moreno,71,"billboards, Anaheim Angels",United States,2100000000.0
+973,Ni Zugen,60,appliances,China,2100000000.0
+973,Maja Oeri,62,Roche Holding,Switzerland,2100000000.0
+973,Ong Beng Seng and Christina Ong,72,diversified,Singapore,2100000000.0
+973,Karl-Johan Persson,42,H&M,Sweden,2100000000.0
+973,Tom Persson,32,H&M,Sweden,2100000000.0
+973,Peter Peterson,91,investments,United States,2100000000.0
+973,Murdaya Poo,76,diversified,Indonesia,2100000000.0
+973,Ferit Faik Sahenk,53,"banking, media",Turkey,2100000000.0
+973,Erik Selin,50,real estate,Sweden,2100000000.0
+973,Mark Stevens,57,venture capital,United States,2100000000.0
+973,Sybill Storz,80,medical devices,Germany,2100000000.0
+973,Torbjorn Tornqvist,64,oil trading,Sweden,2100000000.0
+973,T.Y. Tsai,-100000,finance,Taiwan,2100000000.0
+973,Wu Zhigang,82,bakery chain,China,2100000000.0
+973,Xie Zhikun,56,investments,China,2100000000.0
+973,Yeoh Tiong Lay,87,"construction, property, power",Malaysia,2100000000.0
+973,William Young,76,plastics,United States,2100000000.0
+973,Zhang Li,64,real estate,China,2100000000.0
+973,Zhao Yan,50,"real estate, finance",China,2100000000.0
+973,Zhou Chengjian,52,fashion retail,China,2100000000.0
+1030,Juan Abello,75,investments,Spain,2000000000.0
+1030,Igor Altushkin,47,metals,Russia,2000000000.0
+1030,Hubertus Benteler,70,auto parts,Germany,2000000000.0
+1030,Pierre Chen,59,"art, electronics",Taiwan,2000000000.0
+1030,James Clark,73,"Netscape, investments",United States,2000000000.0
+1030,Dermot Desmond,67,finance,Ireland,2000000000.0
+1030,Bergit Douglas,70,consumer goods,Germany,2000000000.0
+1030,Glenn Dubin,60,hedge funds,United States,2000000000.0
+1030,"Frank Fertitta, III.",55,"casinos, mixed martial arts",United States,2000000000.0
+1030,Lorenzo Fertitta,48,"casinos, mixed martial arts",United States,2000000000.0
+1030,Carlo Fidani,62,real estate,Canada,2000000000.0
+1030,James France,73,"Nascar, racing",United States,2000000000.0
+1030,Peter Gilgan,66,homebuilding,Canada,2000000000.0
+1030,Alexandre Grendene Bartelle,67,shoes,Brazil,2000000000.0
+1030,David Hains,87,Investment,Australia,2000000000.0
+1030,W. Herbert Hunt,88,oil,United States,2000000000.0
+1030,Bruce Karsh,62,private equity,United States,2000000000.0
+1030,Kei Hoi Pang,51,real estate,China,2000000000.0
+1030,Danil Khachaturov,46,"insurance, banking, real estate",Russia,2000000000.0
+1030,Osman Kibar,46,biotech,United States,2000000000.0
+1030,Suna Kirac,76,diversified,Turkey,2000000000.0
+1030,Daniel Kretinsky,42,energy generation,Czech Republic,2000000000.0
+1030,Lam Kong,53,pharmaceuticals,China,2000000000.0
+1030,Herman Langness,-100000,food wholesale and retail,Germany,2000000000.0
+1030,Maritsa Lazari,73,real estate,United Kingdom,2000000000.0
+1030,Li Sze Lim,60,real estate,Hong Kong,2000000000.0
+1030,Li Zhongchu,54,software,China,2000000000.0
+1030,Liao Long-shing,65,petrochemicals,Taiwan,2000000000.0
+1030,Lin Su-hon,89,petrochemicals,Taiwan,2000000000.0
+1030,Vincent Lo,68,real estate,Hong Kong,2000000000.0
+1030,Mangal Prabhat Lodha,61,real estate,India,2000000000.0
+1030,Howard Marks,71,private equity,United States,2000000000.0
+1030,Willy Michel,70,medical devices,Switzerland,2000000000.0
+1030,Tom Morris,63,retail,United Kingdom,2000000000.0
+1030,Jonathan Nelson,61,private equity,United States,2000000000.0
+1030,Alfred Oetker,50,consumer goods,Germany,2000000000.0
+1030,August Oetker,73,consumer goods,Germany,2000000000.0
+1030,Carl Ferdinand Oetker,45,consumer goods,Germany,2000000000.0
+1030,Christian Oetker,69,consumer goods,Germany,2000000000.0
+1030,Julia Oetker,38,consumer goods,Germany,2000000000.0
+1030,Richard Oetker,66,consumer goods,Germany,2000000000.0
+1030,Kevin Plank,45,Under Armour,United States,2000000000.0
+1030,Qin Yinglin,52,pig breeding,China,2000000000.0
+1030,Phillip T. (Terry) Ragon,68,health IT,United States,2000000000.0
+1030,Larry Robbins,48,hedge funds,United States,2000000000.0
+1030,Alberto Roemmers,90,pharmaceuticals,Argentina,2000000000.0
+1030,Luigi Rovati,89,pharmaceuticals,Italy,2000000000.0
+1030,"Karl Scheufele, III.",78,jewelry,Switzerland,2000000000.0
+1030,Rosely Schweizer,77,consumer goods,Germany,2000000000.0
+1030,Kavitark Ram Shriram,60,"venture capital, Google",United States,2000000000.0
+1030,Charles Simonyi,69,Microsoft,United States,2000000000.0
+1030,Eric Smidt,57,hardware stores,United States,2000000000.0
+1030,Peter Spuhler,58,train cars,Switzerland,2000000000.0
+1030,Sun Hongbin,54,real estate,United States,2000000000.0
+1030,Leena Tewari,60,pharmaceuticals,India,2000000000.0
+1030,Tiong Hiew King,82,"timber, media",Malaysia,2000000000.0
+1030,Robert Toennies,39,meat processing,Germany,2000000000.0
+1030,Tseng Shin-yi,89,petrochemicals,Taiwan,2000000000.0
+1030,John Tyson,64,food processing,United States,2000000000.0
+1030,Peter Unger,73,auto repair,Germany,2000000000.0
+1030,Rufino Vigil Gonzalez,69,steel,Mexico,2000000000.0
+1030,Vincent Viola,61,electronic trading,United States,2000000000.0
+1030,Georg von Opel,51,"real estate, investments",Germany,2000000000.0
+1030,David Walentas,79,real estate,United States,2000000000.0
+1030,Ronald Wanek,76,furniture,United States,2000000000.0
+1030,Horst Wortmann,76,footwear,Germany,2000000000.0
+1030,Wu Lanlan,43,packaging,China,2000000000.0
+1030,Zheng Yuewen,55,investments,China,2000000000.0
+1098,Antti Aarnio-Wihuri,77,diversified,Finland,1900000000.0
+1098,Abdullah Al Rajhi,-100000,banking,Saudi Arabia,1900000000.0
+1098,Leslie Alexander,74,Houston Rockets,United States,1900000000.0
+1098,Anne Beaufour,54,pharmaceuticals,France,1900000000.0
+1098,Henri Beaufour,52,pharmaceuticals,France,1900000000.0
+1098,Othman Benjelloun,85,"banking, insurance",Morocco,1900000000.0
+1098,Vladimir Bogdanov,66,oil,Russia,1900000000.0
+1098,Cai Dongqing,48,animation,China,1900000000.0
+1098,Francesco Gaetano Caltagirone,74,"cement, diversified",Italy,1900000000.0
+1098,Richard Chandler,58,investments,New Zealand,1900000000.0
+1098,Chen Hua,51,real estate,China,1900000000.0
+1098,Chen Jianhua,46,chemicals,China,1900000000.0
+1098,Choo Chong Ngen,64,hotels,Singapore,1900000000.0
+1098,Chu Lam Yiu,47,flavorings,Hong Kong,1900000000.0
+1098,Christopher Cline,59,coal,United States,1900000000.0
+1098,"Chase Coleman, III.",42,hedge fund,United States,1900000000.0
+1098,Jean Coutu,90,drugstores,Canada,1900000000.0
+1098,Alexandra Daitch,54,Cargill,United States,1900000000.0
+1098,Alfredo Egydio Arruda Villela Filho,48,banking,Brazil,1900000000.0
+1098,Abhay Firodia,73,automobiles,India,1900000000.0
+1098,Gu Yuhua,68,furniture,China,1900000000.0
+1098,Thomas Hagen,81,insurance,United States,1900000000.0
+1098,Carlos Hank Rhon,69,banking,Mexico,1900000000.0
+1098,Huang Zhenda,70,construction,China,1900000000.0
+1098,Alijan Ibragimov,63,"mining, metals",Kazakhstan,1900000000.0
+1098,Mustafa Kucuk,54,fashion retail,Turkey,1900000000.0
+1098,Stephen Lansdown,65,financial services,Guernsey,1900000000.0
+1098,Spiro Latsis,70,"banking, shipping",Greece,1900000000.0
+1098,Eric Lefkofsky,48,Groupon,United States,1900000000.0
+1098,Li Hejun,50,renewable energy,China,1900000000.0
+1098,Lim Sung-Ki,77,pharmaceuticals,South Korea,1900000000.0
+1098,Lin Li,54,investments,China,1900000000.0
+1098,Brandt Louie,74,drugstores,Canada,1900000000.0
+1098,Alexander Machkevich,63,"mining, metals",Israel,1900000000.0
+1098,Sarah MacMillan,63,Cargill,United States,1900000000.0
+1098,Gilles Martin,54,laboratory services,France,1900000000.0
+1098,"Drayton McLane, Jr.",81,"Wal-Mart, logistics",United States,1900000000.0
+1098,David Nahmad,70,art collection,Monaco,1900000000.0
+1098,Madeleine Olsson Ericksson,72,diversified,Sweden,1900000000.0
+1098,Or Wai Sheun,66,real estate,Hong Kong,1900000000.0
+1098,Stanley Perron,95,"real estate, retail",Australia,1900000000.0
+1098,Theodore Rachmat,73,diversified,Indonesia,1900000000.0
+1098,Ren Jianhua,61,kitchen appliances,China,1900000000.0
+1098,Mochtar Riady,88,diversified,Indonesia,1900000000.0
+1098,Jacques Saade,80,shipping,France,1900000000.0
+1098,Filiz Sahenk,50,"bank, media",Turkey,1900000000.0
+1098,Shin Chang-Jae,64,insurance,South Korea,1900000000.0
+1098,Lucy Stitzer,57,Cargill,United States,1900000000.0
+1098,Thomas Straumann,54,dental implants,Switzerland,1900000000.0
+1098,Katherine Tanner,61,Cargill,United States,1900000000.0
+1098,Glen Taylor,76,printing,United States,1900000000.0
+1098,Tung Chee Chen,75,shipping,Hong Kong,1900000000.0
+1098,Sunny Varkey,60,education,India,1900000000.0
+1098,Wong Luen Hei,55,home building materials,China,1900000000.0
+1098,Wong Man Li,52,furniture,Hong Kong,1900000000.0
+1098,Wu Guangming,55,medical equipment,China,1900000000.0
+1098,Wu Xu,54,real estate,St. Kitts and Nevis,1900000000.0
+1098,Luis Enrique Yarur Rey,66,banking,Chile,1900000000.0
+1098,Yi Zheng,47,software,China,1900000000.0
+1098,Eddie & Sol Zakay,66,real estate,United Kingdom,1900000000.0
+1098,Charles Zegar,69,Bloomberg LP,United States,1900000000.0
+1098,Zhang Guiping,66,real estate,China,1900000000.0
+1098,Zhu Xingliang,58,construction,China,1900000000.0
+1161,Mohamed Al Fayed,88,"retail, investments",Egypt,1800000000.0
+1161,Syed Mokhtar AlBukhary,65,"engineering, energy, construction",Malaysia,1800000000.0
+1161,An Kang,68,pharmaceuticals,China,1800000000.0
+1161,Louis Bacon,61,hedge funds,United States,1800000000.0
+1161,Nicolas Berggruen,56,investments,United States,1800000000.0
+1161,Thor Bjorgolfsson,50,investments,Iceland,1800000000.0
+1161,Jaime Botin,81,banking,Spain,1800000000.0
+1161,Julio Bozano,81,banking,Brazil,1800000000.0
+1161,Cai Wensheng,47,photo sharing app,China,1800000000.0
+1161,Chen Dejun,47,package delivery,China,1800000000.0
+1161,Chen Jinxia,49,investments,China,1800000000.0
+1161,Chen Yung-Tai,81,real estate,Taiwan,1800000000.0
+1161,Cho Tak Wong,71,auto parts,Hong Kong,1800000000.0
+1161,Patokh Chodiev,64,"mining, metals",Belgium,1800000000.0
+1161,John Coates,47,online gambling,United Kingdom,1800000000.0
+1161,Mark Coombs,56,finance,United Kingdom,1800000000.0
+1161,Dulce Pugliese de Godoy Bueno,69,"hospitals, health care",Brazil,1800000000.0
+1161,James Dinan,58,hedge funds,United States,1800000000.0
+1161,N. Murray Edwards,57,oil & gas,Canada,1800000000.0
+1161,Marcel Erni,52,private equity,Switzerland,1800000000.0
+1161,Andre Esteves,49,banking,Brazil,1800000000.0
+1161,Clement Fayat,85,construction,France,1800000000.0
+1161,Alexander Frolov,53,"mining, steel",Russia,1800000000.0
+1161,Alfred Gantner,49,private equity,Switzerland,1800000000.0
+1161,Geng Jianming,55,real estate,China,1800000000.0
+1161,David Gottesman,91,investments,United States,1800000000.0
+1161,Allan Gray,79,money management,South Africa,1800000000.0
+1161,Jonathan Gray,47,investments,United States,1800000000.0
+1161,Esther Grether,81,"art collection, Swatch",Switzerland,1800000000.0
+1161,Gerry Harvey,78,retail,Australia,1800000000.0
+1161,Reed Hastings,57,Netflix,United States,1800000000.0
+1161,He Qiaonv,51,landscape architecture,China,1800000000.0
+1161,Christoph Henkel,59,consumer goods,Germany,1800000000.0
+1161,Roberto Hernandez Ramirez,75,banking,Mexico,1800000000.0
+1161,Hong Ra-Hee,72,Samsung,South Korea,1800000000.0
+1161,Huang Hongyun,51,real estate,China,1800000000.0
+1161,Manuel Jove,76,real estate,Spain,1800000000.0
+1161,Erich Kellerhals,78,electronics retailer,Germany,1800000000.0
+1161,Wolfgang Leitner,64,engineering,Austria,1800000000.0
+1161,Catherine Lozick,72,valve manufacturing,United States,1800000000.0
+1161,Jeffrey Lurie,66,Philadelphia Eagles,United States,1800000000.0
+1161,Yasseen Mansour,56,diversified,Egypt,1800000000.0
+1161,Harsh Mariwala,66,consumer goods,India,1800000000.0
+1161,Craig McCaw,68,telecom,United States,1800000000.0
+1161,Miao Shouliang,62,real estate,China,1800000000.0
+1161,Gail Miller,74,"basketball, car dealers",United States,1800000000.0
+1161,Patrice Motsepe,55,mining,South Africa,1800000000.0
+1161,N.R. Narayana Murthy,71,software services,India,1800000000.0
+1161,Prajogo Pangestu,73,petrochemicals,Indonesia,1800000000.0
+1161,Florentino Perez,70,construction,Spain,1800000000.0
+1161,Heloise Pratt,55,"manufacturing, investment",Australia,1800000000.0
+1161,Jennifer Pritzker,67,"hotels, investments",United States,1800000000.0
+1161,Linda Pritzker,64,"hotels, investments",United States,1800000000.0
+1161,Antony Ressler,55,finance,United States,1800000000.0
+1161,J. Joe Ricketts,76,TD Ameritrade,United States,1800000000.0
+1161,Stephen Rubin,80,sports apparel,United Kingdom,1800000000.0
+1161,Carlos Sanchez,55,generic drugs,Brazil,1800000000.0
+1161,T. Denny Sanford,81,"banking, credit cards",United States,1800000000.0
+1161,Klaus-Peter Schulenberg,-100000,ticketing service,Germany,1800000000.0
+1161,Gerald Schwartz,75,finance,Canada,1800000000.0
+1161,Helmut Sohmen,77,shipping,Austria,1800000000.0
+1161,Kerry Stokes,77,"industrial equipment, media",Australia,1800000000.0
+1161,Sylvia Stroeher,62,cosmetics,Germany,1800000000.0
+1161,Sun Qinghuan,44,lighting,China,1800000000.0
+1161,Arvind Tiku,47,"oil & gas, investments",India,1800000000.0
+1161,Torsten Toeller,51,pet food,Germany,1800000000.0
+1161,Wang Changtian,52,"TV, movie production",China,1800000000.0
+1161,Urs Wietlisbach,56,private equity,Switzerland,1800000000.0
+1161,Elaine Wynn,75,"casinos, hotels",United States,1800000000.0
+1161,Amy Wyss,46,medical equipment,United States,1800000000.0
+1161,Xiong Xuqiang,61,real estate,Hong Kong,1800000000.0
+1161,Jon Yarbrough,60,video games,United States,1800000000.0
+1161,"Richard Yuengling, Jr.",74,beer,United States,1800000000.0
+1234,Aras Agalarov,62,real estate,Russia,1700000000.0
+1234,Maurice Alter,92,real estate,Australia,1700000000.0
+1234,Roberto Angelini Rossi,69,"forestry, mining",Chile,1700000000.0
+1234,Carol Jenkins Barnett,61,Publix supermarkets,United States,1700000000.0
+1234,Andrei Bokarev,51,"coal mining, machine building",Russia,1700000000.0
+1234,Timothy Boyle,68,Columbia Sportswear,United States,1700000000.0
+1234,Norman Braman,85,"art, car dealerships",United States,1700000000.0
+1234,Chang Yun Chung,99,shipping,Singapore,1700000000.0
+1234,Chen Xiaoying,41,package delivery,China,1700000000.0
+1234,Jack Cowin,75,fast food,Australia,1700000000.0
+1234,Cui Lijie,59,gambling,Hong Kong,1700000000.0
+1234,Ana Lucia de Mattos Barretto Villela,44,banking,Brazil,1700000000.0
+1234,Sanford Diller,89,real estate,United States,1700000000.0
+1234,Fritz Draexlmaier,-100000,auto parts,Germany,1700000000.0
+1234,Gabriel Escarrer,82,hotels,Spain,1700000000.0
+1234,Yakir Gabay,51,real estate,Cyprus,1700000000.0
+1234,Harsh Goenka,59,diversified,India,1700000000.0
+1234,Suat Gunsel,65,"real estate, education",Cyprus,1700000000.0
+1234,He Simo,52,power supply manufacturer,China,1700000000.0
+1234,John Kapoor,74,healthcare,United States,1700000000.0
+1234,Kim Beom-Su,51,online services,South Korea,1700000000.0
+1234,Koo Bon-Moo,72,"electronics, chemicals, household products",South Korea,1700000000.0
+1234,Willibert Krueger,77,food processing,Germany,1700000000.0
+1234,Lim Oon Kuin,73,oil trading,Singapore,1700000000.0
+1234,Lin Jianhua,55,solar panel components,China,1700000000.0
+1234,Aloke Lohia,58,petrochemicals,India,1700000000.0
+1234,Miguel McKelvey,43,WeWork,United States,1700000000.0
+1234,Gary Michelson,68,medical patents,United States,1700000000.0
+1234,Nirav Modi,46,diamond jewelry,India,1700000000.0
+1234,Mofatraj Munot,73,real estate,India,1700000000.0
+1234,Martin Naughton,78,heating equipment,Ireland,1700000000.0
+1234,Ranjan Pai,45,education,India,1700000000.0
+1234,Tor Peterson,53,commodities,United States,1700000000.0
+1234,Matthias Reinhart,57,finance,Switzerland,1700000000.0
+1234,Brian Roberts,58,Comcast,United States,1700000000.0
+1234,Vito Rodriguez Rodriguez,78,processed milk,Peru,1700000000.0
+1234,Daniel Roullier,80,animal feed,France,1700000000.0
+1234,Dieter Schnabel,71,chemicals,Germany,1700000000.0
+1234,Thaksin Shinawatra,68,investments,Thailand,1700000000.0
+1234,Shuai Fangwen,51,pharmaceuticals,China,1700000000.0
+1234,Peter Sondakh,67,investments,Indonesia,1700000000.0
+1234,Henry Swieca,60,hedge funds,United States,1700000000.0
+1234,Katsumi Tada,72,real estate,Japan,1700000000.0
+1234,Hamdi Ulukaya,45,Chobani yogurt,Turkey,1700000000.0
+1234,Masateru Uno,70,drugstores,Japan,1700000000.0
+1234,Sandro Veronesi,58,fashion,Italy,1700000000.0
+1234,Jitendra Virwani,51,real estate,India,1700000000.0
+1234,Christine Volkmann,-100000,auto parts,Germany,1700000000.0
+1234,Todd Wagner,57,online media,United States,1700000000.0
+1234,Wang Jiufang,53,real estate,China,1700000000.0
+1234,Wang Laichun,50,electronics components,China,1700000000.0
+1234,Wang Laisheng,52,electronics components,China,1700000000.0
+1234,Charlotte Colket Weber,75,Campbell Soup,United States,1700000000.0
+1234,Xiao Yongming,53,fertilizer,China,1700000000.0
+1234,Yu Minhong,55,education,China,1700000000.0
+1234,Zhu Baoguo,55,pharmaceuticals,China,1700000000.0
+1290,Folorunsho Alakija,66,oil,Nigeria,1600000000.0
+1290,Mohed Altrad,69,"scaffolding, cement mixers",France,1600000000.0
+1290,Joy Alukkas,61,jewelry,India,1600000000.0
+1290,Michael Ashcroft,71,security,United Kingdom,1600000000.0
+1290,Sezai Bacaksiz,68,diversified,Turkey,1600000000.0
+1290,William Berkley,71,insurance,United States,1600000000.0
+1290,O. Francis Biondi,53,hedge fund,United States,1600000000.0
+1290,David Booth,71,mutual funds,United States,1600000000.0
+1290,Josef Boquoi,83,frozen foods,Germany,1600000000.0
+1290,Hubert Burda,77,publishing,Germany,1600000000.0
+1290,Vivek Chand Burman,80,consumer goods,India,1600000000.0
+1290,Edouard Carmignac,70,asset management,France,1600000000.0
+1290,Michel Chalhoub,86,retail,France,1600000000.0
+1290,Chen Lip Keong,70,"casinos, property",Malaysia,1600000000.0
+1290,Chen Qingzhou,52,communications equipment,China,1600000000.0
+1290,Chen Xueli,66,pharmaceuticals,China,1600000000.0
+1290,Cheung Yan,60,paper manufacturing,China,1600000000.0
+1290,Chin Jong Hwa,59,auto parts,Taiwan,1600000000.0
+1290,Turgay Ciner,61,diversified,Turkey,1600000000.0
+1290,Ciputra,86,real estate,Indonesia,1600000000.0
+1290,Jacques D'Amours,60,retail,Canada,1600000000.0
+1290,Kommer Damen,73,shipbuilding,Netherlands,1600000000.0
+1290,Diego Della Valle,63,shoes,Italy,1600000000.0
+1290,Gustavo Denegri,81,medical tests,Italy,1600000000.0
+1290,Murali Divi,66,pharmaceuticals,India,1600000000.0
+1290,Piero Ferrari,72,automobiles,Italy,1600000000.0
+1290,Bernd Freier,60,fashion retail,Germany,1600000000.0
+1290,Valentin Gapontsev,78,lasers,Russia,1600000000.0
+1290,Philippe Ginestet,63,retail stores,France,1600000000.0
+1290,Sanjiv Goenka,56,diversified,India,1600000000.0
+1290,Christopher Goldsbury,74,salsa,United States,1600000000.0
+1290,Senapathy Gopalakrishnan,62,software services,India,1600000000.0
+1290,Ryan Graves,34,uber,United States,1600000000.0
+1290,Mehmet Nazif Gunal,69,"tourism, construction",Turkey,1600000000.0
+1290,Jeffrey Gundlach,58,investments,United States,1600000000.0
+1290,Sait-Salam Gutseriev,58,"oil, banking, real estate",Russia,1600000000.0
+1290,He Yamin,60,manufacturing,China,1600000000.0
+1290,Timothy Headington,67,"oil & gas, investments",United States,1600000000.0
+1290,Lutz Mario Helmig,71,medical facilities,Germany,1600000000.0
+1290,Brian Higgins,52,hedge funds,United States,1600000000.0
+1290,Lawrence Ho,40,casinos,Hong Kong,1600000000.0
+1290,Stewart Horejsi,80,Berkshire Hathaway,United States,1600000000.0
+1290,Hur Young-In,68,"bakeries, fast food",South Korea,1600000000.0
+1290,Hamilton James,66,investments,United States,1600000000.0
+1290,George Joseph,96,insurance,United States,1600000000.0
+1290,"Jim Justice, II.",66,coal,United States,1600000000.0
+1290,Johannes Kaercher,66,"vacuums, cleaning products",Germany,1600000000.0
+1290,Alexander Karp,50,software firm,United States,1600000000.0
+1290,Vinod Khosla,62,venture capital,United States,1600000000.0
+1290,Kim Nam-Jung,44,food,South Korea,1600000000.0
+1290,Marc Lasry,57,hedge funds,United States,1600000000.0
+1290,Christian Latouche,77,accounting services,France,1600000000.0
+1290,Thomas Lau,63,department stores,Hong Kong,1600000000.0
+1290,Jane Lauder,44,cosmetics,United States,1600000000.0
+1290,Aerin Lauder Zinterhofer,47,cosmetics,United States,1600000000.0
+1290,Lee Boo-Jin,47,computer services/tourism,South Korea,1600000000.0
+1290,Thai Lee,58,IT provider,United States,1600000000.0
+1290,Li Li,53,pharmaceuticals,China,1600000000.0
+1290,Lin Tianfu,55,"footwear, apparel",Hong Kong,1600000000.0
+1290,Ma Hong,50,fashion retail,China,1600000000.0
+1290,Billy Joe (Red) McCombs,90,"real estate, oil, cars",United States,1600000000.0
+1290,P.N.C. Menon,69,real estate,Oman,1600000000.0
+1290,Mario Moretti Polegato,65,shoes,Italy,1600000000.0
+1290,Robert Mouawad,72,fine jewelry,Lebanon,1600000000.0
+1290,Kerr Neilson,68,investment,Australia,1600000000.0
+1290,Nandan Nilekani,62,software services,India,1600000000.0
+1290,Nihat Ozdemir,67,diversified,Turkey,1600000000.0
+1290,Roger Penske,80,cars,United States,1600000000.0
+1290,"H. Ross Perot, Jr.",59,real estate,United States,1600000000.0
+1290,Horst Julius Pudwill,73,manufacturing,Germany,1600000000.0
+1290,Fayez Sarofim,89,money management,United States,1600000000.0
+1290,Yuri Shefler,50,alcohol,Russia,1600000000.0
+1290,Ben Silbermann,35,Pinterest,United States,1600000000.0
+1290,Thomas Steyer,60,hedge funds,United States,1600000000.0
+1290,Petter Stordalen,54,hotels,Norway,1600000000.0
+1290,Gabriele Stoschek,-100000,auto parts,Germany,1600000000.0
+1290,Su Suyu,68,"utilities, real estate",China,1600000000.0
+1290,David Teoh,61,telecom,Australia,1600000000.0
+1290,Alan N. Trefler,61,software,United States,1600000000.0
+1290,Roman Trotsenko,47,"transport, engineering, real estate",Russia,1600000000.0
+1290,Wang Qingtao,55,steel smelting,China,1600000000.0
+1290,Wen Pengcheng,55,agribusiness,China,1600000000.0
+1290,Gustav Magnar Witzoe,24,fish farming,Norway,1600000000.0
+1290,Wong Kwong Yu,48,retail,China,1600000000.0
+1290,Ye Cheng,55,conglomerate,China,1600000000.0
+1290,Susanne Zimmermann�von Siefart�,60,"vacuums, home cleaning products",Germany,1600000000.0
+1376,Marcel Adams,97,real estate,Canada,1500000000.0
+1376,Aziz Akhannouch,56,"petroleum, diversified",Morocco,1500000000.0
+1376,"Herbert Allen, Jr.",77,investment banking,United States,1500000000.0
+1376,Albert Berner,82,fasteners,Germany,1500000000.0
+1376,Ron Burkle,65,"supermarkets, investments",United States,1500000000.0
+1376,Chang Pyung-Soon,66,educational services,South Korea,1500000000.0
+1376,Chao Teng-hsiung,73,real estate,Taiwan,1500000000.0
+1376,Chen Liying,42,package delivery,China,1500000000.0
+1376,Chen Qixing,57,electronics components,China,1500000000.0
+1376,Kiat Chiaravanont,-100000,food,Thailand,1500000000.0
+1376,Jean-Paul Clozel,62,pharmaceuticals,Switzerland,1500000000.0
+1376,"Robert Coyiuto, Jr.",64,power,Philippines,1500000000.0
+1376,Belmiro de Azevedo,79,retail,Portugal,1500000000.0
+1376,John de Mol,62,television,Netherlands,1500000000.0
+1376,Benjamin de Rothschild,54,banking,Switzerland,1500000000.0
+1376,Dou Zhenggang,64,"energy, chemicals",China,1500000000.0
+1376,Charles Dunstone,53,mobile phones,United Kingdom,1500000000.0
+1376,Bulent Eczacibasi,67,"pharmaceuticals, diversified",Turkey,1500000000.0
+1376,Faruk Eczacibasi,63,"pharmaceuticals, diversified",Turkey,1500000000.0
+1376,David Einhorn,49,hedge funds,United States,1500000000.0
+1376,Fang Tonghua,54,pharmaceuticals,China,1500000000.0
+1376,Robert Fisher,64,Gap,United States,1500000000.0
+1376,William Fisher,60,Gap,United States,1500000000.0
+1376,Martha Ford,92,Ford Motor,United States,1500000000.0
+1376,Fu Guangming,64,poultry,China,1500000000.0
+1376,William Fung,68,sourcing,Hong Kong,1500000000.0
+1376,Mario Gabelli,75,money management,United States,1500000000.0
+1376,Luca Garavoglia,48,spirits,Italy,1500000000.0
+1376,Jayme Garfinkel,71,insurance,Brazil,1500000000.0
+1376,Rolf Gerling,62,insurance,Germany,1500000000.0
+1376,Alan Gerry,87,cable television,United States,1500000000.0
+1376,Serge Godin,68,information technology,Canada,1500000000.0
+1376,Sergei Gordeev,44,real estate,Russia,1500000000.0
+1376,Yusuf Hamied,81,pharmaceuticals,India,1500000000.0
+1376,David Harding,56,finance,United Kingdom,1500000000.0
+1376,William Heinecke,68,hotels,Thailand,1500000000.0
+1376,Eduardo Hochschild,53,mining,Peru,1500000000.0
+1376,Hong Seok-Joh,64,convenience stores,South Korea,1500000000.0
+1376,Hu Kaijun,55,pharmaceuticals,China,1500000000.0
+1376,Huang Chulong,58,real estate,Canada,1500000000.0
+1376,Huang Li,54,imaging systems,China,1500000000.0
+1376,Huang Qiaoling,59,amusement parks,China,1500000000.0
+1376,Huo Qinghua,56,coal,China,1500000000.0
+1376,Mitchell Jacobson,66,industrial equipment,United States,1500000000.0
+1376,Ravi Jaipuria,62,soft drinks,India,1500000000.0
+1376,Jiang Xuefei,47,printed circuit boards,China,1500000000.0
+1376,Kenji Kasahara,41,social network,Japan,1500000000.0
+1376,Ke Xiping,57,investments,China,1500000000.0
+1376,King Pak Fu,47,real estate,Hong Kong,1500000000.0
+1376,Seth Klarman,60,investments,United States,1500000000.0
+1376,Anthony Langley,62,manufacturing,United Kingdom,1500000000.0
+1376,Lee Seo-Hyun,44,"computer services, tourism",South Korea,1500000000.0
+1376,Rodney Lewis,63,natural gas,United States,1500000000.0
+1376,Li Zongsong,50,pharmaceuticals,China,1500000000.0
+1376,Liang Zhaoxian,52,appliances,China,1500000000.0
+1376,David Lichtenstein,55,real estate,United States,1500000000.0
+1376,Liu Ming Chung,54,paper manufacturing,Brazil,1500000000.0
+1376,Ana Maria Marcondes Penido Sant'Anna,61,toll roads,Brazil,1500000000.0
+1376,Kishore Mariwala,82,consumer goods,India,1500000000.0
+1376,Martin Moller Nielsen,53,aircraft leasing,Denmark,1500000000.0
+1376,Massimo Moratti,72,oil refinery,Italy,1500000000.0
+1376,Manuel Moroun,90,transportation,United States,1500000000.0
+1376,Charles Munger,93,Berkshire Hathaway,United States,1500000000.0
+1376,Ezra Nahmad,72,art,Monaco,1500000000.0
+1376,Vikas Oberoi,47,real estate,India,1500000000.0
+1376,Neal Patterson,67,health IT,United States,1500000000.0
+1376,Nelson Peltz,75,investments,United States,1500000000.0
+1376,Jose Isaac Peres,77,shopping malls,Brazil,1500000000.0
+1376,Gregorio Perez Companc,82,oil & gas,Argentina,1500000000.0
+1376,Qi Jinxing,55,real estate,China,1500000000.0
+1376,Hilton Schlosberg,64,energy drinks,United Kingdom,1500000000.0
+1376,Shen Wenrong,71,steel production,China,1500000000.0
+1376,Shin Dong-Bin,62,retail,South Korea,1500000000.0
+1376,Martua Sitorus,57,palm oil,Indonesia,1500000000.0
+1376,Frank Stronach,85,auto parts,Canada,1500000000.0
+1376,"Georg Stumpf, Jr.",45,"real estate, construction",Austria,1500000000.0
+1376,Tang Hsiang-chien,94,"textiles, electronics",Hong Kong,1500000000.0
+1376,Sukanto Tanoto,67,diversified,Indonesia,1500000000.0
+1376,Alain Taravella,69,real estate,France,1500000000.0
+1376,Jim Thompson,77,logistics,United States,1500000000.0
+1376,Wichai Thongtang,70,investments,Thailand,1500000000.0
+1376,Tung Chee Hwa,80,shipping,Hong Kong,1500000000.0
+1376,Manuel Villar,67,real estate,Philippines,1500000000.0
+1376,Wang Miaotong,60,auto parts,China,1500000000.0
+1376,Wang Wenjing,52,business software,China,1500000000.0
+1376,Ian Wood,75,energy services,United Kingdom,1500000000.0
+1376,Wu Yiling,68,pharmaceuticals,China,1500000000.0
+1376,Takao Yasuda,68,retail,Japan,1500000000.0
+1376,Albert Yeung,74,"real estate, retail",Hong Kong,1500000000.0
+1376,Zhang Jingzhang,81,precision machinery,China,1500000000.0
+1376,Sheng Jian Zhong,59,real estate,Singapore,1500000000.0
+1376,Zhou Hongyi,47,security software,China,1500000000.0
+1468,William Ackman,51,hedge funds,United States,1400000000.0
+1468,Radhe Shyam Agarwal,72,consumer goods,India,1400000000.0
+1468,Bill Alfond,69,shoes,United States,1400000000.0
+1468,Peter Alfond,65,shoes,United States,1400000000.0
+1468,Susan Alfond,72,shoes,United States,1400000000.0
+1468,Ted Alfond,73,shoes,United States,1400000000.0
+1468,Bassam Alghanim,66,diversified,Kuwait,1400000000.0
+1468,Kutayba Alghanim,72,diversified,Kuwait,1400000000.0
+1468,Joao Alves de Queiroz Filho,64,consumer goods,Brazil,1400000000.0
+1468,Alexei Ananyev,53,"banking, IT, real estate",Russia,1400000000.0
+1468,Dmitry Ananyev,48,"banking, IT, real estate",Russia,1400000000.0
+1468,Ramon Ang,63,Diversified,Philippines,1400000000.0
+1468,Vasily Anisimov,66,real estate,Russia,1400000000.0
+1468,Mika Anttonen,50,oil & gas,Finland,1400000000.0
+1468,William F. Austin,75,hearing aids,United States,1400000000.0
+1468,Lesley Bamberger,52,real estate,Netherlands,1400000000.0
+1468,Alex Beard,50,"mining, commodities",United Kingdom,1400000000.0
+1468,Angela Bennett,73,mining,Australia,1400000000.0
+1468,Henadiy Boholyubov,55,"banking, investments",Ukraine,1400000000.0
+1468,Ana Maria Brescia Cafferata,93,"mining, banking",Peru,1400000000.0
+1468,Anand Burman,65,consumer goods,India,1400000000.0
+1468,Ahmet Calik,59,"energy, banking, construction",Turkey,1400000000.0
+1468,Cao Kejian,55,air compressors,China,1400000000.0
+1468,Che Fengsheng,54,pharmaceuticals,China,1400000000.0
+1468,Chen Dakui,65,shrink-wrap film,China,1400000000.0
+1468,Chen Nianci,65,retail,China,1400000000.0
+1468,Bruce Cheng,81,electronics,Taiwan,1400000000.0
+1468,Chua Thian Poh,69,real estate,Singapore,1400000000.0
+1468,Gustavo Cisneros,72,media,Venezuela,1400000000.0
+1468,Robert Defares,56,electronic trading,Netherlands,1400000000.0
+1468,Richard Desmond,65,publishing,United Kingdom,1400000000.0
+1468,Mohammed Dewji,42,diversified,Tanzania,1400000000.0
+1468,John Edson,85,leisure craft,United States,1400000000.0
+1468,Paul Foster,60,oil refining,United States,1400000000.0
+1468,Fu Mingkang,54,manufacturing,China,1400000000.0
+1468,Victor Fung,72,trading company,United States,1400000000.0
+1468,Reinold Geiger,70,beauty products,Austria,1400000000.0
+1468,Radhe Shyam Goenka,71,consumer goods,India,1400000000.0
+1468,Gu Wei,52,consumer electronics,China,1400000000.0
+1468,Han Tao,57,electronics components,China,1400000000.0
+1468,Hans-Werner Hector,77,SAP,Germany,1400000000.0
+1468,Ilkka Herlin,58,"elevators, escalators",Finland,1400000000.0
+1468,Niklas Herlin,54,"elevators, escalators",Finland,1400000000.0
+1468,Alan Howard,54,hedge funds,United Kingdom,1400000000.0
+1468,Huang Wen Tsai,64,real estate,China,1400000000.0
+1468,Huang Wenji,48,umbrellas,China,1400000000.0
+1468,Hal Jackman,85,"insurance, investments",Canada,1400000000.0
+1468,Devendra Jain,88,chemicals,India,1400000000.0
+1468,Ji Qi,51,"hotels, motels",China,1400000000.0
+1468,Jiang Wei,55,pharmaceuticals,China,1400000000.0
+1468,Jiang Yehua,54,real estate,China,1400000000.0
+1468,Ronald Joyce,87,restaurants,Canada,1400000000.0
+1468,T.S. Kalyanaraman,70,jewelry,India,1400000000.0
+1468,Keeree Kanjanapas,67,transportation,Thailand,1400000000.0
+1468,Friedrich Knapp,66,fashion retail,Germany,1400000000.0
+1468,Pyotr Kondrashev,68,fertilizers,Russia,1400000000.0
+1468,Michael Krasny,64,retail,United States,1400000000.0
+1468,Guy Lalibert_,57,Cirque du Soleil,Canada,1400000000.0
+1468,Peter Leibinger,50,machine tools,Germany,1400000000.0
+1468,Regine Leibinger,54,machine tools,Germany,1400000000.0
+1468,Lin Ming-hsiung,67,supermarkets,Taiwan,1400000000.0
+1468,Liu Bing,49,retail,China,1400000000.0
+1468,Liu Xuejing,66,"copper, poultry",China,1400000000.0
+1468,Lo Siu Yu,47,conglomerate,Hong Kong,1400000000.0
+1468,Anatoly Lomakin,65,fertilizers,Russia,1400000000.0
+1468,Lou Zhongfu,63,real estate,China,1400000000.0
+1468,Gary Magness,63,"cable TV, investments",United States,1400000000.0
+1468,Ziyavudin Magomedov,49,"port, gas",Russia,1400000000.0
+1468,Lachhman Das Mittal,87,tractors,India,1400000000.0
+1468,Rubens Ometto Silveira Mello,67,"sugar, ethanol",Brazil,1400000000.0
+1468,Lirio Parisotto,63,investments,Brazil,1400000000.0
+1468,Peng Jianhu,60,tourism,China,1400000000.0
+1468,Markus Persson,38,computer games,Sweden,1400000000.0
+1468,Alberto Prada,-100000,luxury goods,Italy,1400000000.0
+1468,Marina Prada,-100000,luxury goods,Italy,1400000000.0
+1468,Forrest Preston,84,health care,United States,1400000000.0
+1468,"Nicholas Pritzker, II.",73,"hotels, investments",United States,1400000000.0
+1468,Dmitry Pumpyansky,53,steel pipes,Russia,1400000000.0
+1468,Que Wenbin,54,pharmaceuticals,China,1400000000.0
+1468,Megdet Rahimkulov,72,investments,Russia,1400000000.0
+1468,Jerry Reinsdorf,81,sports teams,United States,1400000000.0
+1468,Clayton Riddell,80,oil & gas,Canada,1400000000.0
+1468,Remo Ruffini,56,winter jackets,Italy,1400000000.0
+1468,Rodney Sacks,67,energy drinks,United States,1400000000.0
+1468,Jean Salata,51,finance,Chile,1400000000.0
+1468,Sheryl Sandberg,48,Facebook,United States,1400000000.0
+1468,Eddy Kusnadi Sariaatmadja,64,"media, tech",Indonesia,1400000000.0
+1468,Leonard Schleifer,65,pharmaceuticals,United States,1400000000.0
+1468,Bhadresh Shah,66,engineering,India,1400000000.0
+1468,Nobutoshi Shimamura,91,retail,Japan,1400000000.0
+1468,Rajju Shroff,84,agrochemicals,India,1400000000.0
+1468,Peter Sperling,57,education,United States,1400000000.0
+1468,Manny Stul,68,toys,Australia,1400000000.0
+1468,Wilma Tisch,90,diversified,United States,1400000000.0
+1468,Kenny Troutt,69,telecom,United States,1400000000.0
+1468,Wen Jianping,55,sewage treatment,China,1400000000.0
+1468,John Whittaker,75,real estate,United Kingdom,1400000000.0
+1468,Evan Williams,45,Twitter,United States,1400000000.0
+1468,Wu Daohong,51,energy services,China,1400000000.0
+1567,Lina Maria Aguiar,79,banking,Brazil,1300000000.0
+1567,Farkhad Akhmedov,62,natural gas,Russia,1300000000.0
+1567,Hamad bin Jassim bin Jaber Al Thani,58,investments,Qatar,1300000000.0
+1567,Fawzi Al-Kharafi,-100000,diversified,Kuwait,1300000000.0
+1567,Mohannad Al-Kharafi,-100000,diversified,Kuwait,1300000000.0
+1567,Patricia Angelini Rossi,63,"forestry, mining",Chile,1300000000.0
+1567,Mori Arkin,65,pharmaceuticals,Israel,1300000000.0
+1567,Roman Avdeev,50,"banking, development",Russia,1300000000.0
+1567,Achal Bakeri,57,air coolers,India,1300000000.0
+1567,Bao Hongxing,-100000,agribusiness,China,1300000000.0
+1567,Emanuella Barilla,50,Barilla pasta,Italy,1300000000.0
+1567,Guido Barilla,59,Barilla pasta,Italy,1300000000.0
+1567,Luca Barilla,57,Barilla pasta,Italy,1300000000.0
+1567,Paolo Barilla,56,Barilla pasta,Italy,1300000000.0
+1567,Aneel Bhusri,51,business software,United States,1300000000.0
+1567,Maurizio Billi,-100000,generic drugs,Brazil,1300000000.0
+1567,Bo Shijiu,53,logsitics,China,1300000000.0
+1567,Bernhard Braun-Luedicke,40,medical technology,Germany,1300000000.0
+1567,Eva Maria Braun-Luedicke,30,medical technology,Germany,1300000000.0
+1567,Friederike Braun-Luedicke,33,medical technology,Germany,1300000000.0
+1567,Jorge Horacio Brito,65,banking,Argentina,1300000000.0
+1567,Thomas Bruch,67,food retailing,Germany,1300000000.0
+1567,Nicola Bulgari,76,luxury goods,Italy,1300000000.0
+1567,Paolo Bulgari,80,luxury goods,Italy,1300000000.0
+1567,Steve Case,59,AOL,United States,1300000000.0
+1567,Herb Chambers,75,car dealerships,United States,1300000000.0
+1567,Binod Chaudhary,62,diversified,Nepal,1300000000.0
+1567,Luigi Cremonini,78,meat processing,Italy,1300000000.0
+1567,Jack Dorsey,41,Twitter,United States,1300000000.0
+1567,Alexander Dzhaparidze,62,oil services,Russia,1300000000.0
+1567,Charles Edelstenne,79,aviation,France,1300000000.0
+1567,Bob Ell,72,real estate,Australia,1300000000.0
+1567,Bruce Flatt,52,money management,Canada,1300000000.0
+1567,Walter Frey,74,Emil Frey Group,Switzerland,1300000000.0
+1567,Robert Friedland,67,mining,United States,1300000000.0
+1567,Filaret Galchev,54,construction materials,Russia,1300000000.0
+1567,Gao Don,52,power tools,China,1300000000.0
+1567,Sameer Gehlaut,43,finance,India,1300000000.0
+1567,Balkrishan Goenka,51,textiles,India,1300000000.0
+1567,Dorrance Hamilton,89,Campbell Soup,United States,1300000000.0
+1567,Jost Hellmann,64,logistics,Germany,1300000000.0
+1567,Klaus Hellmann,68,logistics,Germany,1300000000.0
+1567,"B. Wayne Hughes, Jr.",56,storage facilities,United States,1300000000.0
+1567,Irwin Jacobs,84,semiconductors,United States,1300000000.0
+1567,Stephen Jarislowsky,92,money management,Canada,1300000000.0
+1567,Jiang Zhaobai,54,real estate,China,1300000000.0
+1567,Michael Jordan,54,"Charlotte Hornets, endorsements",United States,1300000000.0
+1567,Eugene Kaspersky,52,software,Russia,1300000000.0
+1567,Habil Khorakiwala,75,pharmaceuticals,India,1300000000.0
+1567,Sidney Kimmel,89,retail,United States,1300000000.0
+1567,Alexander Klyachin,50,real estate,Russia,1300000000.0
+1567,William Koch,77,"oil, investments",United States,1300000000.0
+1567,Lee Myung-Hee,74,retail,South Korea,1300000000.0
+1567,Nicola Leibinger-Kammueller,57,manufacturing,Germany,1300000000.0
+1567,James Leininger,72,medical products,United States,1300000000.0
+1567,Li San Yim,67,manufacturing,China,1300000000.0
+1567,Li Weiwei,40,online games,China,1300000000.0
+1567,Liang Guangwei,54,conglomerate,China,1300000000.0
+1567,Liang Yunchao,48,nutrition supplements,China,1300000000.0
+1567,Liu Baolin,64,pharmacies,China,1300000000.0
+1567,Liu Fuhai,63,"textiles, energy",China,1300000000.0
+1567,Liu Ruopeng,34,technology,China,1300000000.0
+1567,Jose Llado Fernandez-Urrutia,83,construction,Spain,1300000000.0
+1567,Pier Luigi Loro Piana,65,fashion,Italy,1300000000.0
+1567,Lu Di,-100000,drones,China,1300000000.0
+1567,Ma Xingtian,48,pharmaceuticals,China,1300000000.0
+1567,Ma Xiuhui,46,LED lighting,China,1300000000.0
+1567,Maggie Magerko,51,building materials,United States,1300000000.0
+1567,Anand Mahindra,62,automobiles,India,1300000000.0
+1567,Vincent McMahon,72,wrestling,United States,1300000000.0
+1567,Boris Mints,59,real estate,Russia,1300000000.0
+1567,Andrei Molchanov,46,construction materials,Russia,1300000000.0
+1567,Gian Marco Moratti,80,oil refinery,Italy,1300000000.0
+1567,Thomas Prinzhorn,74,paper and packaging,Austria,1300000000.0
+1567,Nevaldo Rocha,87,retail,Brazil,1300000000.0
+1567,Fernando Roig,70,supermarkets,Spain,1300000000.0
+1567,Alexander Rovt,65,"fertilizer, real estate",United States,1300000000.0
+1567,Lily Safra,79,banking,Monaco,1300000000.0
+1567,Thomas Sandell,56,hedge funds,Sweden,1300000000.0
+1567,Yoshiyuki Sankai,59,robotics,Japan,1300000000.0
+1567,Antonio Luiz Seabra,74,cosmetics,Brazil,1300000000.0
+1567,Kirill Shamalov,35,petrochemicals,Russia,1300000000.0
+1567,Vijay Shekhar Sharma,39,financial technology,India,1300000000.0
+1567,Bryan Sheffield,39,oil & gas,United States,1300000000.0
+1567,Shin Dong-Joo,63,retail,South Korea,1300000000.0
+1567,Evgeny (Eugene) Shvidler,53,"oil & gas, investments",United States,1300000000.0
+1567,Jasminder Singh,66,hotels,United Kingdom,1300000000.0
+1567,William Stone,62,software,United States,1300000000.0
+1567,Julia Stoschek,-100000,auto parts,Germany,1300000000.0
+1567,Maximilian Stoschek,-100000,auto parts,Germany,1300000000.0
+1567,Sun Shangchuan,54,electronics components,China,1300000000.0
+1567,Djoko Susanto,67,supermarkets,Indonesia,1300000000.0
+1567,Satoshi Suzuki,63,cosmetics,Japan,1300000000.0
+1567,Kenneth Tuchman,58,outsourcing,United States,1300000000.0
+1567,Pavel Tykac,53,coal mines,Czech Republic,1300000000.0
+1567,Shamsheer Vayalil,40,healthcare,India,1300000000.0
+1567,Thongma Vijitpongpun,59,real estate,Thailand,1300000000.0
+1567,Lang Walker,72,real estate,Australia,1300000000.0
+1567,Wang Chaobin,61,real estate,China,1300000000.0
+1567,Wang Han,30,airline,China,1300000000.0
+1567,Wang Junjin,48,airline,China,1300000000.0
+1567,Yin-Chun Wei,60,"food, beverages",Taiwan,1300000000.0
+1567,Wei Yin-Heng,58,"food, beverages",Taiwan,1300000000.0
+1567,Dan Wilks,61,natural gas,United States,1300000000.0
+1567,Farris Wilks,65,natural gas,United States,1300000000.0
+1567,Allan Wong,67,electronics,Hong Kong,1300000000.0
+1567,Wu Xushun,69,"internet, auto parts",China,1300000000.0
+1567,Xu Qiming,54,"food, art",China,1300000000.0
+1567,Xu Ziquan,59,software,China,1300000000.0
+1567,Zan Shengda,54,diversified,China,1300000000.0
+1567,Ahmet Nazif Zorlu,73,diversified,Turkey,1300000000.0
+1678,Soegiarto Adikoesoemo,79,chemicals,Indonesia,1200000000.0
+1678,Somphote Ahunai,50,energy,Thailand,1200000000.0
+1678,Alberto Alcocer,74,investments,Spain,1200000000.0
+1678,Abdul Majeed Alhokair,47,"retail, real estate",Saudi Arabia,1200000000.0
+1678,Fawaz Alhokair,51,"retail, shopping malls",Saudi Arabia,1200000000.0
+1678,Salman Alhokair,50,"retail, shopping malls",Saudi Arabia,1200000000.0
+1678,Alexandra Andresen,21,investments,Norway,1200000000.0
+1678,Katharina Andresen,22,investments,Norway,1200000000.0
+1678,Edmund Ansin,81,television,United States,1200000000.0
+1678,Mehmet Aydinlar,61,hospitals,Turkey,1200000000.0
+1678,Oleg Boyko,53,diversified,Russia,1200000000.0
+1678,Charles Brandes,74,money management,United States,1200000000.0
+1678,Chi Yufeng,46,software,China,1200000000.0
+1678,Chu Jinfu,60,electrical equipment,China,1200000000.0
+1678,Eduardo Cojuangco,82,"food, drinks",Philippines,1200000000.0
+1678,Cui Genliang,59,electric components,China,1200000000.0
+1678,Darwin Deason,77,Xerox,United States,1200000000.0
+1678,K. Dinesh,63,software services,India,1200000000.0
+1678,Sefik Yilmaz Dizdar,79,fashion retail,Turkey,1200000000.0
+1678,Husain Djojonegoro,68,consumer goods,Indonesia,1200000000.0
+1678,Domenico Dolce,59,luxury goods,Italy,1200000000.0
+1678,Carl Douglas,56,investments,Sweden,1200000000.0
+1678,Eric Douglas,49,investments,Sweden,1200000000.0
+1678,John Farber,92,chemicals,United States,1200000000.0
+1678,Gary Fegel,43,commodities trading,Switzerland,1200000000.0
+1678,Stephen Feinberg,57,private equity,United States,1200000000.0
+1678,Gleb Fetisov,51,investments,Russia,1200000000.0
+1678,J. Christopher Flowers,60,investments,United States,1200000000.0
+1678,Donald Friese,77,manufacturing,United States,1200000000.0
+1678,Yasuhiro Fukushima,70,video games,Japan,1200000000.0
+1678,Stefano Gabbana,55,luxury goods,Italy,1200000000.0
+1678,Dan Gertler,43,mining,Israel,1200000000.0
+1678,Anne Gittinger,81,Nordstrom department stores,United States,1200000000.0
+1678,Alfredo Harp Helu,73,banking,Mexico,1200000000.0
+1678,Richard Hayne,70,Urban Outfitters,United States,1200000000.0
+1678,Ilona Herlin,52,"elevators, escalators",Finland,1200000000.0
+1678,J. Tomilson Hill,69,investments,United States,1200000000.0
+1678,Asok Kumar Hiranandani,62,real estate,Singapore,1200000000.0
+1678,Niranjan Hiranandani,67,real estate,India,1200000000.0
+1678,Surendra Hiranandani,62,real estate,India,1200000000.0
+1678,Huang Qisen,52,real estate,China,1200000000.0
+1678,Huang Yi,55,auto distribution,Hong Kong,1200000000.0
+1678,Archie Hwang,-100000,semiconductors,Taiwan,1200000000.0
+1678,Masayuki Ishihara,68,pachinko machines,Japan,1200000000.0
+1678,Ajay Kalsi,56,oil & gas,India,1200000000.0
+1678,Raghuvinder Kataria,68,diversified,United Kingdom,1200000000.0
+1678,Viktor Kharitonin,45,pharmaceuticals,Russia,1200000000.0
+1678,Kim Jun-Ki,72,conglomerate,South Korea,1200000000.0
+1678,Kim Taek-Jin,50,online games,South Korea,1200000000.0
+1678,Yuriy Kosiuk,49,agriculture,Ukraine,1200000000.0
+1678,Andrei Kosogov,56,"oil, banking, telecom",Russia,1200000000.0
+1678,Miguel Krigsner,67,cosmetics,Brazil,1200000000.0
+1678,Lev Kvetnoi,52,"cement, airport",Russia,1200000000.0
+1678,Lev Leviev,61,diamonds,Israel,1200000000.0
+1678,Solomon Lew,72,retail,Australia,1200000000.0
+1678,Li Denghai,68,seed production,China,1200000000.0
+1678,Li Rucheng,66,apparel,China,1200000000.0
+1678,Li Tan,52,pharmaceuticals,China,1200000000.0
+1678,Liu Xiaodong,50,flavorings,China,1200000000.0
+1678,Lo Siu-tong,87,"real estate, hotels",Hong Kong,1200000000.0
+1678,"Cargill MacMillan, III.",57,Cargill,United States,1200000000.0
+1678,John MacMillan,68,Cargill,United States,1200000000.0
+1678,Martha MacMillan,66,Cargill,United States,1200000000.0
+1678,William MacMillan,63,Cargill,United States,1200000000.0
+1678,Terence (Terry) Matthews,74,telecom,Canada,1200000000.0
+1678,Thi Phuong Thao Nguyen,47,airlines,Vietnam,1200000000.0
+1678,Ni Zhaoxing,61,real estate,China,1200000000.0
+1678,Bruce Nordstrom,84,Nordstrom department stores,United States,1200000000.0
+1678,Oei Hong Leong,69,investments,Singapore,1200000000.0
+1678,David Penaloza Alanis,43,toll roads,Mexico,1200000000.0
+1678,Mark Pincus,51,online games,United States,1200000000.0
+1678,Mahendra Prasad,77,pharmaceuticals,India,1200000000.0
+1678,Michael Price,65,investments,United States,1200000000.0
+1678,Ruan Shuilong,81,chemicals,China,1200000000.0
+1678,Stephen Saad,53,pharmaceuticals,South Africa,1200000000.0
+1678,Chris Sacca,42,venture capital investing,United States,1200000000.0
+1678,K. Rai Sahi,71,real estate,Canada,1200000000.0
+1678,Nobutada Saji,71,beverages,Japan,1200000000.0
+1678,Onsi Sawiris,87,"construction, telecom",Egypt,1200000000.0
+1678,Monika Schoeller,78,publishing,Germany,1200000000.0
+1678,Shao Zhongyi,49,soybean trading,China,1200000000.0
+1678,Neil Shen,49,venture capital investing,Hong Kong,1200000000.0
+1678,Leonid Simanovsky,68,investments,Russia,1200000000.0
+1678,Analjit Singh,63,healthcare,India,1200000000.0
+1678,Edward Stack,62,Dick's Sporting Goods,United States,1200000000.0
+1678,Su Weizhong,49,"oil, fertilizers",China,1200000000.0
+1678,Harjo Sutanto,91,consumer goods,Indonesia,1200000000.0
+1678,Kevin Systrom,33,Instagram,United States,1200000000.0
+1678,Tang Jianfang,-100000,packaged foods,China,1200000000.0
+1678,Mehmet Sinan Tara,59,construction,Turkey,1200000000.0
+1678,Rit Thirakomen,66,restaurants,Thailand,1200000000.0
+1678,Tian Ming,63,measuring instruments,China,1200000000.0
+1678,Oleg Tinkov,49,banking,Russia,1200000000.0
+1678,Tse Ping,65,pharmaceuticals,China,1200000000.0
+1678,Wim Van Der Leegte,70,manufacturing,Netherlands,1200000000.0
+1678,John Van Lieshout,71,real estate,Australia,1200000000.0
+1678,Stefan von Holtzbrinck,54,publishing,Germany,1200000000.0
+1678,Wang Jianfeng,47,auto parts,China,1200000000.0
+1678,Wang Jing,44,telecom services,China,1200000000.0
+1678,Wang Wenliang,62,shipping ports,China,1200000000.0
+1678,Wang Yaohai,50,lighting,China,1200000000.0
+1678,Wei Ing-Chou,64,"food, beverages",Taiwan,1200000000.0
+1678,Wei Ying-Chiao,62,"food, beverages",Taiwan,1200000000.0
+1678,Wen Yibo,52,wastewater treatment,China,1200000000.0
+1678,Vadim Yakunin,54,pharmacy,Russia,1200000000.0
+1678,Yang Zhimao,54,"utilities, real estate",China,1200000000.0
+1678,Gavril Yushvaev,60,"precious metals, real estate",Russia,1200000000.0
+1678,Zeng Kaitian,42,online games,China,1200000000.0
+1678,Zhang Anqiang,61,software,Hong Kong,1200000000.0
+1678,Zhang Wanzhen,67,advanced ceramics,China,1200000000.0
+1678,Zhang Xinghai,54,machinery,China,1200000000.0
+1678,Zhang Xiugen,56,automobiles,China,1200000000.0
+1678,Zhang Yue,57,air conditioning,China,1200000000.0
+1678,Zhang Zhangsun,60,real estate,China,1200000000.0
+1678,Kostyantin Zhevago,43,mining,Ukraine,1200000000.0
+1678,Zhou Guohui,52,logistics,China,1200000000.0
+1678,Zhu Wenchen,51,pharmaceuticals,China,1200000000.0
+1795,Lia Maria Aguiar,79,banking,Brazil,1100000000.0
+1795,Len Ainsworth,94,betting machines,Australia,1100000000.0
+1795,Jose Maria Aristrain,55,steel,Spain,1100000000.0
+1795,Ayman Asfari,59,oil services,United Kingdom,1100000000.0
+1795,Thomas Bailey,80,money management,United States,1100000000.0
+1795,Bang Jun-Hyuk,49,online gaming,South Korea,1100000000.0
+1795,Mehmet Rustu Basaran,70,"bank, gas",Turkey,1100000000.0
+1795,Eduardo Belmont Anderson,72,cosmetics,Peru,1100000000.0
+1795,Sara Blakely,46,Spanx,United States,1100000000.0
+1795,Markus Blocher,46,chemicals,Switzerland,1100000000.0
+1795,Leonid Boguslavsky,66,venture capital,Russia,1100000000.0
+1795,Anna Maria Braun,38,medical technology,Germany,1100000000.0
+1795,Johanna Braun,37,medical technology,Germany,1100000000.0
+1795,Karl Friedrich Braun,34,medical technology,Germany,1100000000.0
+1795,Ludwig Theodor Braun,27,medical technology,Germany,1100000000.0
+1795,Hideyuki Busujima,65,pachinko machines,Japan,1100000000.0
+1795,Richard Chang,70,"real estate, electronics",Taiwan,1100000000.0
+1795,Chen Baozhen,74,internet services,China,1100000000.0
+1795,Chen Xiaxin,55,manufacturing,China,1100000000.0
+1795,Chen Zuyuan,-100000,"real estate, pharmaceuticals",China,1100000000.0
+1795,Cheng Xianfeng,48,pharmaceuticals,China,1100000000.0
+1795,Cheng Xue,47,soy sauce,China,1100000000.0
+1795,Cho Jung-Ho,59,finance,South Korea,1100000000.0
+1795,Cho Yang-Rai,80,tire manufacturing,South Korea,1100000000.0
+1795,Ivan Chrenko,50,real estate,Slovakia,1100000000.0
+1795,Chung Mong-Joon,66,"shipbuilding, industrial machines",South Korea,1100000000.0
+1795,Chung Yong-Jin,49,retail,South Korea,1100000000.0
+1795,Robert Citrone,53,hedge fund,United States,1100000000.0
+1795,Arnold Clark,89,Arnold Clark Automobiles,United Kingdom,1100000000.0
+1795,John Collison,27,Stripe,Ireland,1100000000.0
+1795,Patrick Collison,29,Stripe,Ireland,1100000000.0
+1795,Alberto Cortina,71,investments,Spain,1100000000.0
+1795,Sol Daurella,51,Coca-Cola,Spain,1100000000.0
+1795,D. Leopoldo Del Pino y Calvo-Sotelo,55,construction,Spain,1100000000.0
+1795,Maria Del Pino y Calvo-Sotelo,61,construction,Spain,1100000000.0
+1795,Andrea Della Valle,52,shoes,Italy,1100000000.0
+1795,Norbert Dentressangle,63,"transport, logistics",France,1100000000.0
+1795,Dominique Desseigne,73,casinos,France,1100000000.0
+1795,Jamie Dimon,61,banking,United States,1100000000.0
+1795,Ding Yuhua,69,tires,China,1100000000.0
+1795,Mark Dixon,58,office real estate,United Kingdom,1100000000.0
+1795,Dong Fan,47,medical devices,China,1100000000.0
+1795,Henry Engelhardt,59,insurance,United States,1100000000.0
+1795,Fan Zhaoxia,50,photovoltaic equipment,China,1100000000.0
+1795,Fu Kwan,60,"real estate, diversified",China,1100000000.0
+1795,Fu Meicheng,60,"TV shows, movies",China,1100000000.0
+1795,Soichiro Fukutake,71,education,Japan,1100000000.0
+1795,Gao Dekang,65,apparel,China,1100000000.0
+1795,Polys Haji-Ioannou,57,EasyJet,Cyprus,1100000000.0
+1795,Hon Kwok Lung,62,real estate,Hong Kong,1100000000.0
+1795,Hu Baifan,55,pharmaceuticals,China,1100000000.0
+1795,Mohammed Ibrahim,71,communications,United Kingdom,1100000000.0
+1795,Daisy Igel,90,"gas, petrochemicals",Brazil,1100000000.0
+1795,Thomas James,75,finance,United States,1100000000.0
+1795,Jin Huiming,64,real estate,China,1100000000.0
+1795,Rana Kapoor,60,banking,India,1100000000.0
+1795,Sergei Katsiev,59,"retail, wholesale",Russia,1100000000.0
+1795,Koh Wee Meng,54,"real estate, hotels",Singapore,1100000000.0
+1795,Ihor Kolomoyskyy,54,"banking, investments",Ukraine,1100000000.0
+1795,Kong Jian Min,49,real estate,China,1100000000.0
+1795,Kagemasa Kozuki,77,video games,Japan,1100000000.0
+1795,Isaac Larian,63,toys,United States,1100000000.0
+1795,Martin Lau,44,e-commerce,Hong Kong,1100000000.0
+1795,William Lauder,57,Estee Lauder,United States,1100000000.0
+1795,Lee Hae-Jin,50,Internet portal,South Korea,1100000000.0
+1795,Lee Ho-Jin,54,"petrochemicals, finance, media, electronics",South Korea,1100000000.0
+1795,Li Dongjun,-100000,logistics,China,1100000000.0
+1795,Li Fucheng,71,agribusiness,China,1100000000.0
+1795,Li Hongxin,64,paper & related products,China,1100000000.0
+1795,Li Liufa,60,"steel, diversified",China,1100000000.0
+1795,Li Yong,-100000,chemicals,China,1100000000.0
+1795,Lin Yi,-100000,real estate,China,1100000000.0
+1795,Louise Lindh,38,investments,Sweden,1100000000.0
+1795,Harald Link,62,diversified,Thailand,1100000000.0
+1795,Liu Shaoxi,53,real estate,China,1100000000.0
+1795,Liu Zhenguo,52,sewage treatment,China,1100000000.0
+1795,Lo Ka Shui,70,real estate,Hong Kong,1100000000.0
+1795,Kenneth Lo,79,textiles,United Kingdom,1100000000.0
+1795,Lu Jonathan,48,Alibaba,China,1100000000.0
+1795,Ma Yunsheng,54,energy,China,1100000000.0
+1795,Prayudh Mahagitsiri,71,"coffee, shipping",Thailand,1100000000.0
+1795,Youssef Mansour,72,diversified,Egypt,1100000000.0
+1795,John Martin,66,pharmaceuticals,United States,1100000000.0
+1795,Katarina Martinson,36,investments,Sweden,1100000000.0
+1795,Satish Mehta,66,pharmaceuticals,India,1100000000.0
+1795,Thomas Meyer,58,apparel retailer,Switzerland,1100000000.0
+1795,Dariusz Milek,49,"real estate, retail",Poland,1100000000.0
+1795,Judith Neilson,71,investments,Australia,1100000000.0
+1795,Georg Nemetschek,-100000,software,Germany,1100000000.0
+1795,Masahiro Noda,79,software,Japan,1100000000.0
+1795,Liora Ofer,63,investments,Israel,1100000000.0
+1795,Roberto Ongpin,80,diversified,Philippines,1100000000.0
+1795,Ou Zongrong,53,real estate,China,1100000000.0
+1795,Pan Weiming,53,real estate,China,1100000000.0
+1795,Lucy Peng,44,Alibaba,China,1100000000.0
+1795,Victor Pinchuk,56,"steel pipes, diversified",Ukraine,1100000000.0
+1795,Andrei Rappoport,54,investments,Russia,1100000000.0
+1795,Andrea Reimann-Ciardelli,60,consumer goods,United States,1100000000.0
+1795,Steven Roth,76,real estate,United States,1100000000.0
+1795,Alan Rydge,65,entertainment,Australia,1100000000.0
+1795,Deniz Sahenk,72,"bank, media",Turkey,1100000000.0
+1795,Anas Sefrioui,60,real estate,Morocco,1100000000.0
+1795,Mohammed Serafi,-100000,investments,Saudi Arabia,1100000000.0
+1795,Airat Shaimiev,55,"refinery, chemicals",Russia,1100000000.0
+1795,Radik Shaimiev,53,"refinery, chemicals",Russia,1100000000.0
+1795,Shang Jiyong,49,"tires, chemicals",China,1100000000.0
+1795,Brian Sheth,41,investments,United States,1100000000.0
+1795,S.D. Shibulal,62,software services,India,1100000000.0
+1795,Yoshiko Shinohara,83,staffing,Japan,1100000000.0
+1795,Ron Sim,58,retail,Singapore,1100000000.0
+1795,Samprada Singh,92,pharmaceuticals,India,1100000000.0
+1795,Bruno Steinhoff,79,furniture,Germany,1100000000.0
+1795,Beny Steinmetz,61,"mining, diamonds, real estate",Israel,1100000000.0
+1795,Sun Shoukuan,68,metals. coal,China,1100000000.0
+1795,Sun Yinhuan,67,real estate,China,1100000000.0
+1795,Yoshikazu Tanaka,40,social network,Japan,1100000000.0
+1795,Hary Tanoesoedibjo,52,media,Indonesia,1100000000.0
+1795,Ion Tiriac,78,"banking, insurance",Romania,1100000000.0
+1795,Tsai Ming-Kai,67,semiconductors,Taiwan,1100000000.0
+1795,Thomas Tull,47,movies,United States,1100000000.0
+1795,Shoji Uehara,89,pharmaceuticals,Japan,1100000000.0
+1795,Arkady Volozh,53,search engine,Russia,1100000000.0
+1795,Wang Liping,51,hydraulic machinery,China,1100000000.0
+1795,Wang Zhenghua,73,budget airline,China,1100000000.0
+1795,Wang Zhenhua,55,real estate,China,1100000000.0
+1795,Sandy Weill,84,Citigroup,United States,1100000000.0
+1795,Gordon Wu,82,real estate,Hong Kong,1100000000.0
+1795,Thomas Wu,67,finance,Taiwan,1100000000.0
+1795,Xia Dinghu,73,auto parts,China,1100000000.0
+1795,Xiao Chunhong,49,real estate,China,1100000000.0
+1795,Swift Xie,-100000,drones,China,1100000000.0
+1795,Xiu Laigui,63,pharmaceuticals,China,1100000000.0
+1795,Xu Xiong,45,driving schools,China,1100000000.0
+1795,Yang Keng,56,real estate,China,1100000000.0
+1795,Yao Liangsong,53,furniture,China,1100000000.0
+1795,Yu Peidi,57,real estate,Hong Kong,1100000000.0
+1795,Zhang Daocai,67,valves,China,1100000000.0
+1795,Zhang Desheng,67,manufacturing,China,1100000000.0
+1795,Zhang Zhirong,48,"real estate, shipbuilding",Hong Kong,1100000000.0
+1795,Zhao Weiguo,50,technology,China,1100000000.0
+1795,Zhao Xiaoqiang,50,"fashion, entertainment",China,1100000000.0
+1795,Zheng Jianjiang,56,electrical equipment,China,1100000000.0
+1795,Zhou Mingjie,60,lighting installations,China,1100000000.0
+1795,Zhou Yifeng,48,chemicals,China,1100000000.0
+1795,Zhou Yunjie,56,packaging,China,1100000000.0
+1940,Ali Ibrahim Agaoglu,63,construction,Turkey,1000000000.0
+1940,Hamdi Akin,62,diversified,Turkey,1000000000.0
+1940,Chirayu Amin,70,pharmaceuticals,India,1000000000.0
+1940,Marc Andreessen,46,venture capital investing,United States,1000000000.0
+1940,Ao Xiaoqiang,53,electrical equipment,China,1000000000.0
+1940,Mohammed Bahwan,-100000,auto dealerships,Oman,1000000000.0
+1940,Shishir Bajaj,69,consumer goods,India,1000000000.0
+1940,Harindarpal Banga,67,commodities,India,1000000000.0
+1940,Elena Baturina,54,construction,Russia,1000000000.0
+1940,Aldo Bensadoun,78,shoes,Canada,1000000000.0
+1940,John Bloor,74,"real estate, manufacturing",United Kingdom,1000000000.0
+1940,Alexei Bogachev,47,"retail, banking",Russia,1000000000.0
+1940,Saket Burman,40,consumer goods,United Kingdom,1000000000.0
+1940,Fred Chang,61,online retailing,United States,1000000000.0
+1940,Chen Jiancheng,58,manufacturing,China,1000000000.0
+1940,Chey Ki-Won,53,"computer services, telecom",South Korea,1000000000.0
+1940,Yvon Chouinard,-100000,Patagonia,United States,1000000000.0
+1940,Eduardo Costantini,71,real estate,Argentina,1000000000.0
+1940,Brunello Cucinelli,64,fashion,Italy,1000000000.0
+1940,Philip Day,52,clothing retail,United Kingdom,1000000000.0
+1940,Bharat Desai,65,IT consulting,United States,1000000000.0
+1940,Beda Diethelm,76,hearing aids,Switzerland,1000000000.0
+1940,Paul Fireman,73,Reebok,United States,1000000000.0
+1940,Marcos Galperin,-100000,e-commerce,Argentina,1000000000.0
+1940,Ken Grossman,63,beer,United States,1000000000.0
+1940,Yuri Gushchin,73,"candy, real estate",Russia,1000000000.0
+1940,Torstein Hagen,74,cruises,Norway,1000000000.0
+1940,Clelia Haji-Ioannou,46,EasyJet,Cyprus,1000000000.0
+1940,Stelios Haji-Ioannou,50,EasyJet,Cyprus,1000000000.0
+1940,He Zhiping,53,investments,China,1000000000.0
+1940,David Hindawi,72,software,United States,1000000000.0
+1940,Orion Hindawi,37,software,United States,1000000000.0
+1940,Hoi Kin Hong,65,real estate,Macau,1000000000.0
+1940,Drew Houston,34,Dropbox,United States,1000000000.0
+1940,Hua Yong,53,software,China,1000000000.0
+1940,Huang Bingwen,63,cigarette packaging,Australia,1000000000.0
+1940,"Jon Huntsman, Sr.",80,chemicals,United States,1000000000.0
+1940,Howard Jenkins,66,Publix,United States,1000000000.0
+1940,David Kabiller,54,hedge funds,United States,1000000000.0
+1940,Morris Kahn,87,software,Israel,1000000000.0
+1940,Jonas Kamprad,51,IKEA,Sweden,1000000000.0
+1940,Mathias Kamprad,48,IKEA,Sweden,1000000000.0
+1940,Peter Kamprad,53,IKEA,Sweden,1000000000.0
+1940,Billy Kan,65,"finance, energy",Hong Kong,1000000000.0
+1940,Thomas Kaplan,55,investments,United States,1000000000.0
+1940,Yuri Kovalchuk,66,"banking, insurance, media",Russia,1000000000.0
+1940,Kuan Kam Hon,69,synthetic gloves,Malaysia,1000000000.0
+1940,Lee Hwa-Kyung,61,snack foods,South Korea,1000000000.0
+1940,Lee Sang-Hyuk,46,investments,South Korea,1000000000.0
+1940,Nancy Lerner,57,finance,United States,1000000000.0
+1940,Norma Lerner,81,finance,United States,1000000000.0
+1940,Randolph Lerner,55,finance,United States,1000000000.0
+1940,Li Yihai,54,pharmaceuticals,China,1000000000.0
+1940,Liao Chang,51,wine,China,1000000000.0
+1940,John Liew,50,hedge funds,United States,1000000000.0
+1940,Desmond Lim Siew Choon,56,property,Malaysia,1000000000.0
+1940,Liu Canglong,62,conglomerate,China,1000000000.0
+1940,Liu Hanyuan,53,agribusiness,China,1000000000.0
+1940,Liu Jianjun,57,mining,China,1000000000.0
+1940,Liu Ming Hui,54,natural gas distribution,China,1000000000.0
+1940,Liu Zhendong,-100000,industrial parks,China,1000000000.0
+1940,William Macaulay,72,energy investments,United States,1000000000.0
+1940,George Marcus,76,real estate,United States,1000000000.0
+1940,David McMurtry,77,manufacturing,United Kingdom,1000000000.0
+1940,Mi Enhua,59,retail,China,1000000000.0
+1940,Lowell Milken,68,investments,United States,1000000000.0
+1940,Azad Moopen,64,healthcare,India,1000000000.0
+1940,Jannie Mouton,70,financial services,South Africa,1000000000.0
+1940,Nan Cunhui,54,power equipment,China,1000000000.0
+1940,Simon Nixon,50,price comparison website,United Kingdom,1000000000.0
+1940,Kentaro Ogawa,69,restaurants,Japan,1000000000.0
+1940,Jonathan Oringer,43,stock photos,United States,1000000000.0
+1940,Erik Paulsson,75,"construction, real estate",Sweden,1000000000.0
+1940,Pierre Karl P_ladeau,56,communications,Canada,1000000000.0
+1940,Boris Rotenberg,60,"construction, pipes, chemicals",Russia,1000000000.0
+1940,John Schnatter,55,Papa John's,United States,1000000000.0
+1940,Martin Selig,79,real estate,United States,1000000000.0
+1940,Evan Sharp,34,Pinterest,United States,1000000000.0
+1940,Eric Ya Shen,46,online apparel retail,China,1000000000.0
+1940,Albert Shigaboutdinov,65,"refinery, chemicals",Russia,1000000000.0
+1940,Edgar Sia,40,fast food,Philippines,1000000000.0
+1940,O. Bruton Smith,90,Nascar racetracks,United States,1000000000.0
+1940,Terry Snow,73,"airports, real estate",Australia,1000000000.0
+1940,Axel Stawski,67,real estate,United States,1000000000.0
+1940,Michael Steinhardt,76,finance,United States,1000000000.0
+1940,Rustem Sulteev,63,"refinery, chemicals",Russia,1000000000.0
+1940,Tang Shing-bor,83,real estate,Hong Kong,1000000000.0
+1940,Alexander Tedja,72,real estate,Indonesia,1000000000.0
+1940,Mustafa Latif Topbas,73,"food manufacturing, retail",Turkey,1000000000.0
+1940,Surin Upatkoon,68,"telecom, lotteries, insurance",Thailand,1000000000.0
+1940,Murat Vargi,70,telecom,Turkey,1000000000.0
+1940,Alexander Vik,62,investments,Norway,1000000000.0
+1940,Wang Jinshu,60,chemicals,China,1000000000.0
+1940,Wang Junmin,48,pharmaceuticals,China,1000000000.0
+1940,Wang Qunbin,47,conglomerate,China,1000000000.0
+1940,Wang Yong,67,food sweeteners,China,1000000000.0
+1940,Wei Shaojun,54,real estate,China,1000000000.0
+1940,David Shou-Yeh Wong,76,banking,Hong Kong,1000000000.0
+1940,Wu Chung-yi,58,manufacturing,Taiwan,1000000000.0
+1940,Yao Xinyi,53,air conditioning,China,1000000000.0
+1940,Fatma Yazici,44,diversified,Turkey,1000000000.0
+1940,Zhang Changhong,59,financial information service,China,1000000000.0
+1940,Zhang Cheng Fei,50,paper & related products,China,1000000000.0
+1940,Zhou Yifeng,39,liquefied petroleum gas,China,1000000000.0
